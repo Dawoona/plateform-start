@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 
 
@@ -22,7 +22,7 @@
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="Install" />
 <meta name="author" content="Mathieu Lebreton" />
-<meta property="og:locale" content="en" />
+<meta property="og:locale" content="fr" />
 <meta name="description" content="How you install Hydejack depends on whether you start a new site, or change the theme of an existing site." />
 <meta property="og:description" content="How you install Hydejack depends on whether you start a new site, or change the theme of an existing site." />
 <link rel="canonical" href="http://localhost:4000/docs/install/" />
@@ -59,7 +59,7 @@
 <meta name="generator" content="Hydejack v9.1.5" />
 
 
-<link rel="alternate" href="http://localhost:4000/docs/install/" hreflang="en">
+<link rel="alternate" href="http://localhost:4000/docs/install/" hreflang="fr">
 
 <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Selection M" />
 
@@ -96,7 +96,7 @@
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2022-02-13T18:35:59+01:00',
+    INDEX_KEY: 'index--2022-08-13T00:49:44+02:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -339,7 +339,7 @@ Before running for the first time, dependencies need to be fetched from <a href=
 <footer class="content" role="contentinfo">
   <hr/>
   
-    <p><small class="copyright">© 2021. All rights reserved.
+    <p><small class="copyright">© 2022. Tous droits réservés.
 </small></p>
   
   
@@ -408,11 +408,11 @@ Before running for the first time, dependencies need to be fetched from <a href=
       <li>
         <a
           id="_drawer--opened"
-          href="/blog/"
+          href="/services/"
           class="sidebar-nav-item "
           
         >
-          Blog
+          Services
         </a>
       </li>
     
@@ -432,11 +432,11 @@ Before running for the first time, dependencies need to be fetched from <a href=
       <li>
         <a
           
-          href="/resume/"
+          href="/profil/"
           class="sidebar-nav-item "
           
         >
-          Résumé*
+          Profil*
         </a>
       </li>
     
@@ -444,11 +444,11 @@ Before running for the first time, dependencies need to be fetched from <a href=
       <li>
         <a
           
-          href="/docs/"
+          href="/contact/"
           class="sidebar-nav-item "
           
         >
-          Documentation
+          contact
         </a>
       </li>
     
@@ -566,72 +566,7 @@ Before running for the first time, dependencies need to be fetched from <a href=
     }
   </script>
 <!--<![endif]-->
-  <!-- <script>
-  document.querySelector('hy-push-state').setAttribute('prefetch', '');
-
-  document.querySelectorAll('.sidebar a[href^="/"]').forEach(function (el) { 
-    el.addEventListener('click', function (e) {
-      if (el.pathname === window.location.pathname) {
-        e.preventDefault();
-        e.stopPropagation();
-        document.querySelector('hy-drawer').close();
-      }
-    });
-  });
-</script> -->
-
-<!--
-Code for integrating CloudFlare's email protection with Hydejack's single page app loading.
--->
-<script>
-  document.getElementById('_pushState').addEventListener('hy-push-state-after', function (e) {
-    function e(e){
-      (console.error?console.error:console.log).call(console,e)
-    }
-
-    function t(e){
-      return l.innerHTML='<a href="'+e.replace(/"/g,"&quot;")+'"></a>',l.childNodes[0].getAttribute("href")
-    }
-
-    function r(e,t){
-      var r=e.substr(t,2);return parseInt(r,16)
-    }
-
-    function n(e,n){
-      for(var o="",c=r(e,n),a=n+2;a<e.length;a+=2){
-        var l=r(e,a)^c;
-        o+=String.fromCharCode(l)
-      }
-      return t(o)
-    }
-
-    var o="/cdn-cgi/l/email-protection#",
-        c=".__cf_email__",
-        a="data-cfemail",
-        l=document.createElement("div");
-
-    !function(){
-      for(var t=document.getElementsByTagName("a"),r=0;r<t.length;r++)
-        try{
-          var c=t[r],a=c.href.indexOf(o);
-          a>-1&&(c.href="mailto:"+n(c.href,a+o.length))
-        }catch(t){
-          e(t)
-        }
-    }(),
-    function(){
-      for(var t=document.querySelectorAll(c),r=0;r<t.length;r++)
-        try{
-          var o=t[r],l=n(o.getAttribute(a),0),i=document.createTextNode(l);
-          o.parentNode.replaceChild(i,o)
-        }catch(t){
-          e(t)
-        }
-    }()
-  });
-</script>
-
-
+  
 
 
 
