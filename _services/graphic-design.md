@@ -11,7 +11,7 @@ image:
   srcset: 
     1920w: /assets/img/services/cover-graphic-design.jpg
     960w:  /assets/img/services/cover-graphic-design@0,5x.jpg
-    480w:  /assets/img/services/cover-graphic-design@0,25x.jpg
+
 links:
   - title: Plus d'informations
     url: /contact
