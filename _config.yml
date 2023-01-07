@@ -9,7 +9,7 @@ url:                   https://selection-m.design
 # When your site is in a subdirectory, set to `/plateform`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-baseurl:               ''
+baseurl:               '/'
 
 
 # General settings
@@ -37,7 +37,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  _site/assets/img/logo.png
+logo:                  /assets/img/Logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -437,4 +437,14 @@ jekyll_compose:
         path: /assets/img/sidebar-bg.jpg
       links:
         - title: Service Link
+          url: https://example.com
+    contact:
+      layout: contact
+      description: >
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+      links:
+        - title: Contact Link
           url: https://example.com
