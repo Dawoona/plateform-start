@@ -53,7 +53,7 @@ menu:
     url:               /services/
   - title:             Projects
     url:               /projects/
-  - title:             Profil*
+  - title:             Profil
     url:               /profil/
   - title:             contact
     url:               /contact/
@@ -305,6 +305,10 @@ collections:
 
   services:
     permalink:         /services/:path/
+    output:            true
+
+  contact:
+    permalink:         /contact/:path/
     output:            true
 
 # File inclusion/exclusion
