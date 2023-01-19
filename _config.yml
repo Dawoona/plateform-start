@@ -244,7 +244,7 @@ hydejack:
   no_theme_color:      false
 
   # Disable the breadcrumbs above the title
-  no_breadcrumbs:      false
+  no_breadcrumbs:      true
 
   # Set to `true` when building with the `--lsi` option
   use_lsi:             true
@@ -260,7 +260,7 @@ hydejack:
   # Buyers of the PRO version can opt to hide all dates from the theme.
   # Frequent consumers of online content will know that nothing devalues a post like
   # seeing an old date. 
-  hide_dates:          false
+  hide_dates:          true
 
   # TODO
   hide_last_modified:  false
