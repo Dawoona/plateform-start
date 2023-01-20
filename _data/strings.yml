@@ -45,15 +45,15 @@ continue_reading:      >
 
 cookies_banner:
   text:                >
-    This site uses cookies. [Cookies Policy](/cookies-policy/).
+    Cette plateforme utilise les cookies. [revenir à l'accueil](/).
   okay:                Okay
 
 not_found:
   title:               'Oups !'
   message:             |
     Désolé, nous avons égaré ce lien ou elle pointe vers quelque chose qui n'existe pas.
-    <a href="/">Revenez à l'accueil</a> et reprenez votre navigation :)
-  home_link:           Head back home
+    <!--home_link--> et reprenez votre navigation :)
+  home_link:           Revenez à l'accueil
 
 offline:
   title:               'You are Offline'
@@ -129,7 +129,7 @@ resume:
   highlights:          Highlights
   volunteer:           Volunteer
   volunteer_title:     <!--position--> at <!--organization-->
-  education:           Formation
+  education:           Education
   education_title:     <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
   courses:             Courses
   awards:              Awards
@@ -139,10 +139,10 @@ resume:
   references:          References
   languages:           Languages
   fluency:             Fluency
-  skills:              Compétences
+  skills:              Skills
   level:               Level
   interests:           Interests
-  summary:             Présentation
+  summary:             Summary
   keywords:            Keywords
   print:               Print
   download_pdf:        PDF

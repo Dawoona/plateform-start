@@ -1,13 +1,13 @@
-current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/3.1.0/gems/duktape-2.6.0.0/ext/duktape
+current directory: /Users/matmat/Desktop/plateform/vendor/bundle/ruby/3.1.0/gems/duktape-2.6.0.0/ext/duktape
 /usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.1.3/lib/ruby/3.1.0 extconf.rb
 checking for rb_sym2str()... yes
 creating Makefile
 
-current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/3.1.0/gems/duktape-2.6.0.0/ext/duktape
-make DESTDIR\= sitearchdir\=./.gem.20230105-81784-edep4l sitelibdir\=./.gem.20230105-81784-edep4l clean
+current directory: /Users/matmat/Desktop/plateform/vendor/bundle/ruby/3.1.0/gems/duktape-2.6.0.0/ext/duktape
+make DESTDIR\= sitearchdir\=./.gem.20230120-2781-bm7czi sitelibdir\=./.gem.20230120-2781-bm7czi clean
 
-current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/3.1.0/gems/duktape-2.6.0.0/ext/duktape
-make DESTDIR\= sitearchdir\=./.gem.20230105-81784-edep4l sitelibdir\=./.gem.20230105-81784-edep4l
+current directory: /Users/matmat/Desktop/plateform/vendor/bundle/ruby/3.1.0/gems/duktape-2.6.0.0/ext/duktape
+make DESTDIR\= sitearchdir\=./.gem.20230120-2781-bm7czi sitelibdir\=./.gem.20230120-2781-bm7czi
 compiling duktape.c
 duktape.c:16329:52: warning: function 'duk_debugger_attach' could be declared with attribute 'noreturn' [-Wmissing-noreturn]
                                       void *udata) {
@@ -39,6 +39,6 @@ duktape_ext.c:625:1: warning: function 'error_handler' could be declared with at
 linking shared-object duktape_ext.bundle
 ld: warning: -undefined dynamic_lookup may not work with chained fixups
 
-current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/3.1.0/gems/duktape-2.6.0.0/ext/duktape
-make DESTDIR\= sitearchdir\=./.gem.20230105-81784-edep4l sitelibdir\=./.gem.20230105-81784-edep4l install
-/usr/bin/install -c -m 0755 duktape_ext.bundle ./.gem.20230105-81784-edep4l
+current directory: /Users/matmat/Desktop/plateform/vendor/bundle/ruby/3.1.0/gems/duktape-2.6.0.0/ext/duktape
+make DESTDIR\= sitearchdir\=./.gem.20230120-2781-bm7czi sitelibdir\=./.gem.20230120-2781-bm7czi install
+/usr/bin/install -c -m 0755 duktape_ext.bundle ./.gem.20230120-2781-bm7czi

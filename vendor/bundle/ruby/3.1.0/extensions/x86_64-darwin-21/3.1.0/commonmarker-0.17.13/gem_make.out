@@ -1,12 +1,12 @@
-current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/3.1.0/gems/commonmarker-0.17.13/ext/commonmarker
+current directory: /Users/matmat/Desktop/plateform/vendor/bundle/ruby/3.1.0/gems/commonmarker-0.17.13/ext/commonmarker
 /usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.1.3/lib/ruby/3.1.0 extconf.rb
 creating Makefile
 
-current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/3.1.0/gems/commonmarker-0.17.13/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20230105-81784-nvjfwz sitelibdir\=./.gem.20230105-81784-nvjfwz clean
+current directory: /Users/matmat/Desktop/plateform/vendor/bundle/ruby/3.1.0/gems/commonmarker-0.17.13/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20230120-2781-mbnivx sitelibdir\=./.gem.20230120-2781-mbnivx clean
 
-current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/3.1.0/gems/commonmarker-0.17.13/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20230105-81784-nvjfwz sitelibdir\=./.gem.20230105-81784-nvjfwz
+current directory: /Users/matmat/Desktop/plateform/vendor/bundle/ruby/3.1.0/gems/commonmarker-0.17.13/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20230120-2781-mbnivx sitelibdir\=./.gem.20230120-2781-mbnivx
 compiling arena.c
 compiling autolink.c
 compiling blocks.c
@@ -97,6 +97,6 @@ compiling xml.c
 linking shared-object commonmarker/commonmarker.bundle
 ld: warning: -undefined dynamic_lookup may not work with chained fixups
 
-current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/3.1.0/gems/commonmarker-0.17.13/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20230105-81784-nvjfwz sitelibdir\=./.gem.20230105-81784-nvjfwz install
-/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20230105-81784-nvjfwz/commonmarker
+current directory: /Users/matmat/Desktop/plateform/vendor/bundle/ruby/3.1.0/gems/commonmarker-0.17.13/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20230120-2781-mbnivx sitelibdir\=./.gem.20230120-2781-mbnivx install
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20230120-2781-mbnivx/commonmarker

@@ -17,7 +17,7 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  fr
+lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Selection M
@@ -29,7 +29,7 @@ description:           >
   Création multimédia, design graphique, art visuel, technologie, cuisine, mode, mode de vie, psychologie, neuroscience etc.
 
 # A shorter description for the sidebar.
-tagline:               Mathieu Lebreton •`Graphiste`
+tagline:               Mathieu Lebreton -`Slasher`
 
 # A list of keywords for your blog
 keywords:              []
@@ -37,7 +37,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/Logo.png
+logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -49,13 +49,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Services
-    url:               /services/
+  - title:             Showcase
+    url:               /showcase/
   - title:             Projects
     url:               /projects/
-  - title:             Profil
+  - title:             Profil*
     url:               /profil/
-  - title:             contact
+  - title:             Contact
     url:               /contact/
 
 # Add links to the footer.
@@ -67,14 +67,14 @@ legal:
     url:               /cookies/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2022. Tous droits réservés.
+copyright:             © 2023. Tous droits réservés.
 
 # Format of the permalinks
-# permalink:             /blog/:categories/:year-:month-:day-:title/
+permalink:             /showcase/:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 # paginate:              10
-# paginate_path:         /blog/:num/
+# paginate_path:         /showcase/:num/
 
 
 # Theme
@@ -179,7 +179,7 @@ kramdown:
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
-tinyletter:            selectionm
+# tinyletter:            <username>
 
 
 # Hydejack Settings
@@ -292,7 +292,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /blog/:name/
+    permalink:         /showcase/:name/
     output:            true
 
   featured_tags:
@@ -303,13 +303,6 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
-  services:
-    permalink:         /services/:path/
-    output:            true
-
-  contact:
-    permalink:         /contact/:path/
-    output:            true
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
@@ -431,24 +424,4 @@ jekyll_compose:
         path: /assets/img/sidebar-bg.jpg
       links:
         - title: Project Link
-          url: https://example.com
-    services:
-      layout: service
-      description: >
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-      links:
-        - title: Service Link
-          url: https://example.com
-    contact:
-      layout: contact
-      description: >
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-      links:
-        - title: Contact Link
           url: https://example.com
