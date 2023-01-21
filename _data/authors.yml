@@ -8,14 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Directeur artistique passionné de design et d’innovation dans le domaine du multimédia, et du développement de projets web.
-    Après plus de 7 ans d'expérience en agence (Start-up) spécialisée dans l'e-commerce et le marketing (digital/évènementiel), je souhaite aujourd'hui tourner une nouvelle page, et ainsi me donner la chance de vivre de mes passions en toute indépendance.
-    Je suis soucieux de la qualité de mes prestations, et relations clients.
-    Impossible de vous mentir, ou de vous décevoir - je suis un HPE.
-    Prêts à relever vos défis avec panache et passion :) !
-    Hâte de commencer avec vous
-    
-    Open `_data/authors.yml` to edit this text.
+   Ma mission est de vous aider à créer une marque unique et cohérente,
+   qui reflète vos valeurs et vos engagements, et qui suscite l’engagement et la fidélité de vos clients.
 
   # This photo will be used in the about section
   picture:

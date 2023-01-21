@@ -4,12 +4,7 @@ title: Freelancer/ArtDirector/WebDeveloper/Artist/Slasher
 sitemap: false
 ---
 
-DA de 34 ans et passionné de design et d’innovation dans les technologies numériques
-.
-Qualifié depuis plus de 10 ans dans le métier du graphisme et plus récemment en UX/UI Design,
-j'ai eu l'occasion de travailler tout en m'épanouissant sur de nombreux projets challengeants
-en start-up (spécialiste de la com et du e-commerce),
-et PME (société à talents multiples, proposant des prestations dans plusieurs domaines, spécialisée dans l'IT).
+Salut ! Je m'appelle Mat, j'ai 34 ans et je suis fou de design et de tout ce qui est innovant dans les technologies numériques. Avec plus de 10 ans d'expérience dans le graphisme, et plus récemment en design d'expérience utilisateur (UX/UI) et stratégie marketing digitale, j'ai eu la chance de travailler sur des projets passionnants avec des start-up spécialisées dans la communication et le e-commerce, et des PME aux talents multiples proposant des prestations dans divers domaines, notamment dans l'IT.
 
 
 ## J'aide en temps que pluri-actif, les entreprises/agences :

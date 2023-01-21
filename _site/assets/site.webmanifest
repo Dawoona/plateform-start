@@ -1,8 +1,8 @@
 {
-  "lang": "en",
+  "lang": "FR",
   "name": "Selection M",
   "short_name": "Selection M",
-  "description": "Selection M est une plateforme professionnelle et personnelle diffusant du contenu visuel, textuel dans ces domaines d’activités : Création multimédia, design graphique, art visuel, technologie, cuisine, mode, mode de vie, psychologie, neuroscience etc.",
+  "description": "Découvrez Selection M, une plateforme privée proposant des contenus créatifs sur des domaines tels que le graphisme, les technologies du web 2.0 et 3, l’informatique, les jeux vidéos, la cuisine etc.",
   "start_url": "/?utm_source=homescreen",
   "theme_color": "rgb(25,55,71)",
   "background_color": "#fff",

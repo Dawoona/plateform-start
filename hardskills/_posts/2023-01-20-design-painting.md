@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 'Branding'
-caption: Là on mettra une petite description du service.
+title: 'Digital Painting'
+caption: Description du service 1.
 description: >
   This is how I use Hydejack on my personal site. 
   Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
-date: 1 Jun 2022
+date: 12 aout 2022
 image: 
-  path: /assets/img/showcase/cover-branding.jpg
+  path: /assets/img/hardskills/cover-digital-painting.jpg
   srcset: 
-    1920w: /assets/img/showcase/cover-branding.jpg
-    960w:  /assets/img/showcase/cover-branding@0,5x.jpg
+    1920w: /assets/img/hardskills/cover-digital-painting.jpg
+    960w:  /assets/img/hardskills/cover-digital-painting@0,5x.jpg
 
 links:
   - title: Plus d'informations
