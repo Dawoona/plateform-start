@@ -7,9 +7,9 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-   Ma mission est de vous aider à créer une marque unique et cohérente,
-   qui reflète vos valeurs et vos engagements, et qui suscite l’engagement et la fidélité de vos clients.
+  # about:             |
+  # Ma mission est de vous aider à créer une marque unique et cohérente,
+  # qui reflète vos valeurs et vos engagements, et qui suscite l’engagement et la fidélité de vos clients.
 
   # This photo will be used in the about section
   picture:
@@ -54,7 +54,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        selection-m-design
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

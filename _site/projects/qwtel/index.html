@@ -78,6 +78,8 @@
 <link rel="dns-prefetch" href="https://fonts.googleapis.com"><link rel="dns-prefetch" href="https://fonts.gstatic.com">
 
 
+  <link rel="dns-prefetch" href="https://www.google-analytics.com">
+
 
 <link rel="preload" href="/assets/img/swipe.svg" as="image" id="_hrefSwipeSVG">
 
@@ -102,7 +104,7 @@
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2023-01-21T17:57:21+01:00',
+    INDEX_KEY: 'index--2023-01-27T22:14:41+01:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -309,128 +311,6 @@ That’s why I’m not using Google Fonts, and instead use whatever is the defau
      
 
 
-  <aside class="about related mt4 mb4" role="complementary">
-    
-    
-
-<div class="author mt4">
-  
-
-  
-    
-
-
-<img
-  
-    src="https://placehold.it/128x128"
-    srcset="https://placehold.it/128x128 1x,https://placehold.it/256x256 2x"
-    
-  
-  alt="Mathieu Lebreton"
-  class="avatar"
-  
-  width="120"
-  height="120"
-  loading="lazy"
-/>
-
-  
-
-  
-  
-  <h2  class="page-title hr-bottom">
-    About
-  </h2>
-
-  <p>Ma mission est de vous aider à créer une marque unique et cohérente,
-qui reflète vos valeurs et vos engagements, et qui suscite l’engagement et la fidélité de vos clients.</p>
-
-
-  <div class="sidebar-social">
-    <span class="sr-only">Social:</span>
-<ul>
-  
-    
-      
-
-
-
-  
-
-  
-  
-  
-  
-
-  
-
-  
-
-  <li>
-    <a href="https://twitter.com/Dawoona" title="Twitter" class="no-mark-external">
-      <span class="icon-twitter"></span>
-      <span class="sr-only">Twitter</span>
-    </a>
-  </li>
-
-
-    
-      
-
-
-
-  
-
-  
-  
-  
-  
-
-  
-
-  
-
-  <li>
-    <a href="https://github.com/Matdawoon" title="GitHub" class="no-mark-external">
-      <span class="icon-github"></span>
-      <span class="sr-only">GitHub</span>
-    </a>
-  </li>
-
-
-    
-      
-
-
-
-  
-
-  
-  
-  
-  
-
-  
-
-  
-
-  <li>
-    <a href="mailto:hello@mathieu-lebreton.com" title="Email" class="no-mark-external">
-      <span class="icon-mail"></span>
-      <span class="sr-only">Email</span>
-    </a>
-  </li>
-
-
-    
-  
-</ul>
-
-  </div>
-</div>
-
-  </aside>
-
 
   
 
@@ -452,6 +332,13 @@ qui reflète vos valeurs et vos engagements, et qui suscite l’engagement et la
 
   
     
+<aside class="comments related" role="complementary">
+  <h2 class="hr-bottom">Comments</h2>
+  
+
+
+</aside>
+
 
   
 
@@ -525,11 +412,11 @@ qui reflète vos valeurs et vos engagements, et qui suscite l’engagement et la
       <li>
         <a
           id="_drawer--opened"
-          href="/hardskills/"
+          href="/services/"
           class="sidebar-nav-item "
           
         >
-          Hardskills
+          Services
         </a>
       </li>
     
@@ -652,6 +539,30 @@ qui reflète vos valeurs et vos engagements, et qui suscite l’engagement et la
 
 
     
+      
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  <li>
+    <a href="https://www.linkedin.com/in/selection-m-design" title="LinkedIn" class="no-mark-external">
+      <span class="icon-linkedin2"></span>
+      <span class="sr-only">LinkedIn</span>
+    </a>
+  </li>
+
+
+    
   
 </ul>
 
@@ -672,6 +583,46 @@ qui reflète vos valeurs et vos engagements, et qui suscite l’engagement et la
   
 
   
+  <script>!function(w, d) {
+    w.ga=w.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+
+    /**/
+      if (navigator.CookiesOK) {
+        ga('create', 'G-4PNVT1786F', 'auto');
+      } else if (d.cookie.indexOf("hy--cookies-ok=true") > -1) {
+        ga('create', 'G-4PNVT1786F', {
+          'storage': 'none',
+          'clientId': localStorage ? localStorage.getItem('ga--client-id') : undefined
+        });
+      } else {
+        ga('create', 'G-4PNVT1786F', {
+          'storage': 'none'
+        });
+        ga('set', 'forceSSL', true);
+        ga('set', 'anonymizeIp', true);
+      }
+    /**/
+
+    var pushStateEl = d.getElementById('_pushState');
+    var timeoutId;
+    pushStateEl.addEventListener('hy-push-state-load', function() {
+      w.clearTimeout(timeoutId);
+      timeoutId = w.setTimeout(function() {
+        ga('set', 'page', w.location.pathname);
+        ga('send', 'pageview');
+      }, 500);
+    });
+
+    d.addEventListener('hy--cookies-ok', function () {
+      w.ga(function(tracker) {
+        w.ga("set", "anonymizeIp", undefined);
+        localStorage && localStorage.setItem("ga--client-id", tracker.get("clientId"));
+      });
+    });
+
+    w.loadJSDeferred('https://www.google-analytics.com/analytics.js');
+  }(window, document);</script>
+
 
   <script type="module">
     if ('serviceWorker' in navigator) {

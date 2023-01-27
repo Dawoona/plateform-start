@@ -1,16 +1,15 @@
 ---
 layout: post
-title: 'Design PLV'
-caption: Là on mettra une petite description du service.
+title: 'Digital Painting'
+caption: Illustrez, créez des univers, pour plus d'originalité
 description: >
-  This is how I use Hydejack on my personal site. 
-  Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
-date: 1 Jun 2022
+
+date: 12 aout 2022
 image: 
-  path: /assets/img/showcase/cover-design-plv.jpg
+  path: /assets/img/services/cover-digital-painting.jpg
   srcset: 
-    1920w: /assets/img/showcase/cover-design-plv.jpg
-    960w:  /assets/img/showcase/cover-design-plv@0,5x.jpg
+    1920w: /assets/img/services/cover-digital-painting.jpg
+    960w:  /assets/img/services/cover-digital-painting@0,5x.jpg
 
 links:
   - title: Plus d'informations

@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hardskills
-    url:               /hardskills/
+  - title:             Services
+    url:               /services/
   - title:             Projects
     url:               /projects/
   - title:             Profil*
@@ -69,11 +69,11 @@ legal:
 copyright:             © 2023. Tous droits réservés.
 
 # Format of the permalinks
-permalink:             /hardskills/:title/
+permalink:             /services/:title/
 
 # Pagination configuration (used by the `blog` layout)
 # paginate:              10
-paginate_path:         /hardskills/:num/
+paginate_path:         /services/:num/
 
 
 # Theme
@@ -136,10 +136,10 @@ defaults:
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type:            posts
-  #   values:
-  #     comments:        true
+  - scope:
+      type:            projects
+    values:
+      comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
@@ -170,7 +170,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:      G-4PNVT1786F
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
@@ -193,7 +193,7 @@ hydejack:
   project_addons:      [about, newsletter, other, comments]
 
   # Set to `true` if you don't want to show an icon indicating external links
-  no_mark_external:    false
+  no_mark_external:    true
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_push_state:       false
@@ -291,7 +291,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /hardskills/:name/
+    permalink:         /services/:name/
     output:            true
 
   featured_tags:

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 'Web Design'
-caption: Là on mettra une petite description du service.
+title: 'Intégation'
+caption: Choisissez la performance pour vos projets web
 description: >
   This is how I use Hydejack on my personal site. 
   Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
 date: 1 Jun 2022
 image: 
-  path: /assets/img/showcase/cover-web-design.jpg
+  path: /assets/img/services/cover-integration.jpg
   srcset: 
-    1920w: /assets/img/showcase/cover-web-design.jpg
-    960w:  /assets/img/showcase/cover-web-design@0,5x.jpg
+    1920w: /assets/img/services/cover-integration.jpg
+    960w:  /assets/img/services/cover-integration@0,5x.jpg
 
 links:
   - title: Plus d'informations
