@@ -4,7 +4,7 @@ title: 'Design Print'
 caption: Embellissez vos messages en misant sur l'impression
 description: >
  
-date: 24 janvier 2023
+date: 20 janvier 2023
 image: 
   path: /assets/img/services/cover-design-print.jpg
   srcset: 

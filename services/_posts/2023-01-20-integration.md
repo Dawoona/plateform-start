@@ -1,11 +1,10 @@
 ---
 layout: post
-title: 'Intégation'
-caption: Choisissez la performance pour vos projets web
+title: 'Intégration'
+caption: Pérennisez et sécurisez vos sites vitrines ou fonctionnels
 description: >
-  This is how I use Hydejack on my personal site. 
-  Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
-date: 1 Jun 2022
+  Le bon choix des différents outils/environnements de développements favorise le succès et la pérennité de vos projets web. cela impacte directement l'UX et la sécurité des données. Que ça soit pour un site vitrine ou e-commerce, privilégiez la compatibiité entre les différentes technologies choisies afin d'optimiser les performances du site ou de l'application, telles que la vitesse de chargement, la réponse aux requêtes et la capacité à gérer des charges élevées de trafic.
+date: 22 janvier 2023
 image: 
   path: /assets/img/services/cover-integration.jpg
   srcset: 
@@ -20,16 +19,3 @@ accent_image:
 theme_color: '#193747'
 sitemap: false
 ---
-
-While I love the font used for Hydejack's headings, for my personal site I felt less of a need to control the typesetting.
-That's why I'm not using Google Fonts, and instead use whatever is the default for the reader's operating system.
-
-```yml
-google_fonts: false
-font:         false
-font_heading: false
-font_code:    false
-```
-
-The configuration I use to enable the system font on my site. Feel free to copy!
-{:.figcaption}

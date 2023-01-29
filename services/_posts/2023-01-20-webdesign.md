@@ -1,11 +1,10 @@
 ---
 layout: post
 title: 'Web Design'
-caption: Rendre vos sites web plus attractifs
+caption: Offrez une expérience unique pour vos visiteurs
 description: >
-  This is how I use Hydejack on my personal site. 
-  Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
-date: 1 Jun 2022
+  Soignez l'organisation d'un site web et son contenu 
+date: 22 janvier 2023
 image: 
   path: /assets/img/services/cover-web-design.jpg
   srcset: 
@@ -20,16 +19,3 @@ accent_image:
 theme_color: '#193747'
 sitemap: false
 ---
-
-While I love the font used for Hydejack's headings, for my personal site I felt less of a need to control the typesetting.
-That's why I'm not using Google Fonts, and instead use whatever is the default for the reader's operating system.
-
-```yml
-google_fonts: false
-font:         false
-font_heading: false
-font_code:    false
-```
-
-The configuration I use to enable the system font on my site. Feel free to copy!
-{:.figcaption}

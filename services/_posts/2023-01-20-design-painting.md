@@ -3,8 +3,8 @@ layout: post
 title: 'Digital Painting'
 caption: Illustrez, créez des univers, pour plus d'originalité
 description: >
-
-date: 12 aout 2022
+  Vous avez un projet graphique particulier comme trouver des ambiances colorées, des éléments à illustrer, trouver un style graphique 100% sur-mesure ? Le digital painting peut être la solution. De nombreux banques d'images ont fleurie depuis plusieurs années. Il n'est pas toujours évident de se démarquer des autres. Le digital painting est une forme d'art consistant à créer à partir de zéro ou de partir d'une image numérique existante pour la modifier et la rendre atypique.
+date: 23 janvier 2023
 image: 
   path: /assets/img/services/cover-digital-painting.jpg
   srcset: 
@@ -19,16 +19,3 @@ accent_image:
 theme_color: '#193747'
 sitemap: false
 ---
-
-While I love the font used for Hydejack's headings, for my personal site I felt less of a need to control the typesetting.
-That's why I'm not using Google Fonts, and instead use whatever is the default for the reader's operating system.
-
-```yml
-google_fonts: false
-font:         false
-font_heading: false
-font_code:    false
-```
-
-The configuration I use to enable the system font on my site. Feel free to copy!
-{:.figcaption}
