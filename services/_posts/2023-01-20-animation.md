@@ -18,4 +18,4 @@ accent_color: '#4fb1ba'
 accent_image:
 theme_color: '#193747'
 sitemap: false
----
+--- 
