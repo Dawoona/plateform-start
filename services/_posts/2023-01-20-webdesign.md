@@ -8,7 +8,7 @@ date: 22 janvier 2023
 image: 
   path: /assets/img/services/cover-web-design-2.jpg
   srcset: 
-    1920w: /assets/img/services/cover-web-design@0,5-2.jpg
+    1920w: /assets/img/services/cover-web-design@0,5x-2.jpg
     960w:  /assets/img/services/cover-web-design@0,25x-2.jpg
 
 links:

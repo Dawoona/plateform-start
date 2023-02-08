@@ -16,12 +16,10 @@ Je salue toutes les personnes qui m'ont accompagné de près ou de loin, à mon 
   <li>À me rendre disponible pour des demandes spécifiques en équipe ou solo</li>
 
 
-## Mon fonctionnement en 4 points :
-
-  <li>1/ Humaniser nos échanges au maximum</li>
-  <li>2/ Communiquer de manière efficace</li>
-  <li>3/ Respecter les engagements et deadlines</li>
-  <li>4/ Garder le sourire et vous satisfaire 🤗 </li>
+## Mon fonctionnement en 3 points :
+  <li>1/ Communiquer de manière efficace</li>
+  <li>2/ Respecter les engagements et deadlines</li>
+  <li>3/ Etre enthousiaste et rendre l'impossible possible 🤗 </li>
 ---
 
 

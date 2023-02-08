@@ -6,10 +6,10 @@ description: >
   Le bon choix des différents outils/environnements de développements favorise le succès et la pérennité de vos projets web. cela impacte directement l'UX et la sécurité des données. Que ça soit pour un site vitrine ou e-commerce, privilégiez la compatibiité entre les différentes technologies choisies afin d'optimiser les performances du site ou de l'application, telles que la vitesse de chargement, la réponse aux requêtes et la capacité à gérer des charges élevées de trafic.
 date: 22 janvier 2023
 image: 
-  path: /assets/img/services/cover-integration.jpg
+  path: /assets/img/services/cover-integration-2.jpg
   srcset: 
-    1920w: /assets/img/services/cover-integration.jpg
-    960w:  /assets/img/services/cover-integration@0,5x.jpg
+    1920w: /assets/img/services/cover-integration@0,5x-2.jpg
+    960w:  /assets/img/services/cover-integration@0,25x-2.jpg
 
 links:
   - title: Plus d'informations

@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/projects/microsoft-surface-go/</loc>
-<lastmod>2023-01-29T23:06:02+01:00</lastmod>
+<loc>http://localhost:4000/works/design-marquage-pour-tote-bag/</loc>
+<lastmod>2023-02-03T19:01:16+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/works/design-print-wishes-card/</loc>
+<lastmod>2023-02-03T19:08:45+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/offline.html</loc>
@@ -13,16 +17,16 @@
 <lastmod>2023-01-20T16:04:11+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/profil/</loc>
-<lastmod>2023-01-20T16:04:11+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/projects/</loc>
-<lastmod>2023-01-27T22:16:31+01:00</lastmod>
+<loc>http://localhost:4000/resume/</loc>
+<lastmod>2022-08-19T07:16:02+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/services/</loc>
 <lastmod>2023-01-27T22:16:31+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/works/</loc>
+<lastmod>2023-02-03T18:02:13+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/licenses/Apache-2.0/</loc>

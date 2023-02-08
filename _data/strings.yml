@@ -10,10 +10,10 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
+home:                  Accueil
 pages:                 Pages
-posts:                 Posts
-about:                 About
+posts:                 Publications
+about:                 A propos
 related_posts:         Related Posts
 other_projects:        Other Projects
 comments:              Comments
@@ -100,18 +100,16 @@ date_formats:
 # If you don't own the PRO version of Hydejack, modifying these will have no effect.
 
 tinyletter:
-  title:               Commercial break
+  title:               Pour suivre mes actualités et astuces
   label:               Email
-  placeholder:         Enter your email address
-  button:              Subscribe
+  placeholder:         Entrez votre adresse email
+  button:              Ça m'interesse
   message:             |
-    Pay the *iron price* for this theme by adding yourself to the mailing list.
-    Receive development updates, advanced tutorials,
-    and anything else I can come up with as it relates to **Hydejack**.
+    Retouvrez quelques actualités et astuces dans l'univers du graphisme et du multimédia.
 
     <!--form-->
 
-    No 3rd party products, no spam. Emails handled by [Tinyletter](https://tinyletter.com/)
+
     {:.faded}
 
 welcome:
@@ -119,10 +117,10 @@ welcome:
   more_posts:          See <!--posts_title--> for more
 
 resume:
-  location:            Location
+  location:            Localisation
   location_separator:  ', '
   email:               Email
-  phone:               Phone
+  phone:               mobile
   website:             Website
   work:                Experience
   work_title:          <!--position--> at <!--company-->
@@ -137,14 +135,14 @@ resume:
   publications:        Publications
   publications_title:  <!--name--> by <!--publisher-->
   references:          References
-  languages:           Languages
-  fluency:             Fluency
-  skills:              Skills
-  level:               Level
-  interests:           Interests
-  summary:             Summary
+  languages:           Langues
+  fluency:             Niveau
+  skills:              Compétences
+  level:               Niveau
+  interests:           Hobbies
+  summary:             Description
   keywords:            Keywords
-  print:               Print
+  print:               Impression
   download_pdf:        PDF
   download_vcf:        vCard
   download_json:       JSON
