@@ -52,6 +52,8 @@ menu:
     url:               /services/
   - title:             Works
     url:               /works/
+  - title:             Design
+    url:               /design/  
   - title:             Profil
     url:               /resume/
   - title:             Contact
