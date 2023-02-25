@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Bons de commande/service'
-caption: Lapeyre, le manuel
+caption: Manuel de bons Lapeyre
 description: >
   
 date: '02-12-2019'
