@@ -3,16 +3,15 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Mathieu Lebreton"
-  label: "Graphiste"
+  label: "DA indépendant"
   picture: "/assets/img/avatar-profil.jpg"
   email: "contact@mathieu-lebreton.com"
   mobile: "(+33)682819419"
-# website: "https://piedpiper.com"
   summary: >
     Directeur artistique indépendant et passionné de design et d’innovation dans le domaine du multimédia,
     développement de site web et application mobile.
-    Je suis également cofondateur associé avec Ara JO, directrice générale de Selection A,
-    une entreprise franco-coréenne spécialisée dans la vente en ligne de produits de luxe et made in France.
+    Ma mission principale en temps que créatif polyvalent, c'est d'en découvrir toujours plus au fil du temps, en réalisant le meilleur
+    rendu possible pour mes collaborateurs/clients.
   location:
 # address: "2 Rue Gonnet,"
     postalCode: "75011"

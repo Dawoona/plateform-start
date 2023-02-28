@@ -1,13 +1,12 @@
 ---
 layout: page
-title: ArtDirector/GraphicDesigner/WebDesigner/Artist
+title:
 sitemap: false
 ---
 
 ## Hello, bonjour, 안녕하세요!
 
-Passionné de design en général et de tout ce qui est innovant dans les technologies numériques. Avec 10 ans d'expérience dans le graphisme print/web, et plus récemment en design d'expérience utilisateur (UX/UI), j'ai eu la chance de travailler au sein de start-up spécialisées dans la communication et le e-commerce, et une PME incroyable (Mextor, Le génie est ici) aux talents multiples proposant des prestations dans divers domaines, notamment dans l'IT.
-Je salue toutes les personnes qui m'ont accompagné de près ou de loin avec conviction et bienveillance.
+Avec 10 ans d'expérience dans le graphisme print/web et récemment en design d'expérience utilisateur, j'ai eu la chance de travailler pour des start-up spécialisées dans la communication et le e-commerce, ainsi que pour une PME incroyable appelée Mextor, qui propose des prestations dans divers domaines, notamment l'IT et qui dispose de talents multiples.
 
 
 ## J'aide en temps que pluri-actif, les entreprises/agences :
@@ -17,8 +16,8 @@ Je salue toutes les personnes qui m'ont accompagné de près ou de loin avec con
 
 
 ## Mon fonctionnement en 3 points :
-  <li>1/ Communiquer de manière efficace</li>
-  <li>2/ Respecter le travail réalisé</li>
+  <li>1/ Communiquer efficacement et de manière transparente</li>
+  <li>2/ Vous accompagner dans le processus de créations</li>
   <li>3/ Etre enthousiaste et rendre l'impossible possible 🤗 </li>
 ---
 
