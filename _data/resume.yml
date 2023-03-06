@@ -3,17 +3,16 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Mathieu Lebreton"
-  label: "DA indépendant"
+  label: "Indépendant @Selection M"
   picture: "/assets/img/avatar-profil.jpg"
   email: "contact@mathieu-lebreton.com"
   mobile: "(+33)682819419"
   summary: >
-    Directeur artistique indépendant et passionné de design et d’innovation dans le domaine du multimédia,
-    développement de site web et application mobile.
-    Ma mission principale en temps que créatif polyvalent, c'est d'en découvrir toujours plus au fil du temps, en réalisant le meilleur
-    rendu possible pour mes collaborateurs/clients.
+    Professionnel passionné de design et d’innovation dans le graphisme, la tech, le
+    développement d'interface web et mobile (+ le gaming tout récemment).
+    Mes valeurs et leitmotivs sont l'évolution du monde, l'expérimentation, le travail, la perséverance, valoriser l'échec, l'amusement, le respect, la loyauté...
   location:
-# address: "2 Rue Gonnet,"
+    # address: ""
     postalCode: "75011"
     city: "Paris"
     countryCode: "France"
@@ -25,7 +24,7 @@ basics:
     - network: "LinkedIn"
       username: "selection-m-design"
       url: "https://www.linkedin.com/in/selection-m-design/"
-Experiences:
+Works:
   - company: "Selection A"
     position: "Associé"
     website: "https://blog.naver.com/noussommesnous"

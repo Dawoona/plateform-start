@@ -28,7 +28,7 @@ description:           >
   Découvrez Selection M, une plateforme privée proposant des contenus créatifs sur des domaines tels que le graphisme, les technologies du web, l'informatique, les jeux vidéos, la cuisine etc.
 
 # A shorter description for the sidebar.
-tagline:               Activités créatives pluridisciplinaires  
+tagline:               Graphisme + Tech 👾  
 
 # A list of keywords for your blog
 keywords:              []
@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Services
-    url:               /services/
+  - title:             Skills
+    url:               /skills/
   - title:             Works
     url:               /works/
   - title:             Profil
