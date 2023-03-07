@@ -6,7 +6,8 @@ sitemap: false
 
 ## Hello, bonjour, 안녕하세요!
 
-J'ai eu la chance de travailler pour des start-up spécialisées dans la communication et le e-commerce, ainsi que pour une PME extraordinaire appelée Mextor, qui propose des prestations dans divers domaines, notamment l'IT et qui dispose de talents multiples. Après 10 ans d'expérience dans le graphisme print/web et récemment en design d'expérience utilisateur, je me lance en solo pour développer ma marque de fabrique, mon identité en temps que professionnel du milieu.
+Spécialiste du "pixel perfect" ou du "tracé vectoriel", j'ai eu la chance de travailler pour des start-up spécialisées dans la communication et le e-commerce, ainsi que pour une superbe PME, **[Mextor](https://mextor.com)**, qui propose des prestations dans divers domaines, notamment l'IT et qui dispose de talents multiples. Suite à mes 10 ans d'expérience dans le milieu de la communication/marketing, je lance aujourd'hui mon EI pour m'exprimer, apprendre et façonner une véritable identité en temps qu'artiste et amoureux des arts graphiques.
+
 
 
 ## Je peux aider en temps que pluri-actif, les entreprises/agences :
