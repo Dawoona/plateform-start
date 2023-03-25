@@ -14,7 +14,7 @@ Tel : +33682819419
 Email : hello@selection-m.design  
 
 ##### Informations éditeur
-Le site est édité par MAthieu Lebreton @Selection M (EI)
+Le site est édité par Mathieu Lebreton @Selection M (EI)
 
 ##### Informations hébergeur
 Le site est hébergé par OVH, au capital social de 10 174 560 €  

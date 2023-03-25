@@ -60,8 +60,8 @@ menu:
 legal:
   - title:             Mentions Légales
     url:               /mentions-legales/
-  - title:             Cookies
-    url:               /cookies/
+  - title:             Protection des données
+    url:               /protection-des-donnees/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2023. Tous droits réservés.
