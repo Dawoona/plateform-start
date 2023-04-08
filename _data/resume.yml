@@ -3,14 +3,13 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Mathieu Lebreton"
-  label: "Indépendant @Selection M"
+  label: "Designer Full-Stack @Selection M"
   picture: "/assets/img/avatar-profil.jpg"
   email: "contact@mathieu-lebreton.com"
   mobile: "(+33)682819419"
   summary: >
-    Professionnel passionné de design et d’innovation dans le graphisme, la tech, le
-    développement d'interface web et mobile (+ le gaming tout récemment).
-    Mes valeurs et leitmotivs sont l'évolution du monde, l'expérimentation, le travail, la perséverance, valoriser l'échec, l'amusement, le respect, la loyauté...
+    Professionnel passionné de design et d’innovation dans **[le graphisme](https://www.adobe.com/fr/creativecloud/design/discover/what-is-graphic-design.html)** et le multimédia.
+    --- Mes valeurs et leitmotivs : accepter le changement, évoluer avec les autres, vivre avec passion, être patient, se relever de nos échecs, s'amuser comme un enfant, respecter autrui, être loyal...
   location:
     # address: ""
     postalCode: "75011"

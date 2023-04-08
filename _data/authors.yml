@@ -23,7 +23,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         Dawoona
+    # twitter:         <username>
     github:          Matdawoon
     email:           hello@mathieu-lebreton.com
     # rss:             https://<url>/feed.xml
@@ -36,7 +36,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       matdawoon
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
