@@ -5,7 +5,7 @@ basics:
   name: "Mathieu Lebreton"
   label: "Designer Full-Stack @Selection M"
   picture: "/assets/img/avatar-profil.jpg"
-  email: "contact@mathieu-lebreton.com"
+  email: "hello@selection-m.design"
   mobile: "(+33)682819419"
   summary: >
     Professionnel passionné de design et d’innovation dans **[le graphisme](https://www.adobe.com/fr/creativecloud/design/discover/what-is-graphic-design.html)** et le multimédia.
@@ -17,9 +17,9 @@ basics:
     countryCode: "France"
     region: "Ile de France"
   profiles:
-    - network: "Twitter"
-      username: "Dawoona"
-      url: "https://twitter.com/Dawoona"
+    - network: "Instagram"
+      username: "matdawoon"
+      url: "https://instagram.com/matdawoon"
     - network: "LinkedIn"
       username: "selection-m-design"
       url: "https://www.linkedin.com/in/selection-m-design/"
