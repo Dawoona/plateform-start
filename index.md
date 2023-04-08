@@ -6,7 +6,7 @@ sitemap: false
 
 ## Hello, bonjour, 안녕하세요!
 
-En tant qu'expert du "pixel perfect" et du "mode agile", j'ai eu l'opportunité de collaborer avec des start-ups innovantes dans divers secteurs tels que le e-commerce, le marketing digital et les événements d'entreprise. J'ai également eu la chance de travailler avec Mextor, une PME remarquable qui met à disposition ses compétences dans plusieurs domaines, notamment l'IT, en rassemblant une équipe de talents multidisciplinaires.
+En tant qu'expert du "pixel perfect" et du "mode agile", j'ai eu l'opportunité de collaborer avec des start-ups innovantes dans divers secteurs tels que le e-commerce, le marketing digital et les événements d'entreprise. J'ai également eu la chance de travailler avec **[Mextor](https://mextor.com)**, une PME remarquable qui met à disposition ses compétences dans plusieurs domaines, notamment l'IT, en rassemblant une équipe de talents multidisciplinaires.
 
 Après plus de dix ans d'expérience dans le monde de la communication offline/online, je me suis lancé dans l'aventure entrepreneuriale afin d'explorer de nouveaux horizons, d'exprimer ma créativité de manière différente, de tester de nouvelles idées, d'apprendre constamment et de façonner ma propre identité dans l'univers du design.
 
