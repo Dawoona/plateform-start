@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'Marquage pour tote bag'
-caption: Visuel numérique en N&B
+title: 'Marquage tote bag'
+caption: Dessin numérique en N&B
 description: >
   
 date: '01-11-2020'
