@@ -70,11 +70,11 @@ legal:
 copyright:             © Selection M 2023. Tous droits réservés.
 
 # Format of the permalinks
-permalink:             /services/:title/
+permalink:             /skills/:title/
 
 # Pagination configuration (used by the `blog` layout)
 # paginate:              10
-paginate_path:         /services/:num/
+paginate_path:         /skills/:num/
 
 
 # Theme
