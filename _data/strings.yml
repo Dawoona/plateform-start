@@ -69,9 +69,9 @@ error:
 
 # Separators
 # ---------------------------------------------------------------------------------------
-posted:                'Posted'
-last_modified_at:      'Last modified at'
-last_modified_at_icon: 'icon-history'
+# posted:                'Posted'
+# last_modified_at:      'Last modified at'
+# last_modified_at_icon: 'icon-history'
 colon:                 ':'
 separator:             '|'
 category_start:        'in '
@@ -100,12 +100,12 @@ date_formats:
 # If you don't own the PRO version of Hydejack, modifying these will have no effect.
 
 tinyletter:
-  title:               Pour suivre mes actualités et astuces
+  title:               Pour s'informer des actualités du moment 
   label:               Email
   placeholder:         Entrez votre adresse email
-  button:              Ça m'interesse
+  button:              Ça m'intéresse 👍 !
   message:             |
-    Retouvrez quelques actualités et astuces dans l'univers du graphisme et du multimédia.
+    Retrouvrez quelques actualités et/ou astuces sur le graphisme et la tech.
 
     <!--form-->
 
@@ -117,10 +117,11 @@ welcome:
   more_posts:          See <!--posts_title--> for more
 
 resume:
-  location:            Localisation
+resume:
+  location:            Location
   location_separator:  ', '
   email:               Email
-  phone:               mobile
+  phone:               Phone
   website:             Website
   work:                Experience
   work_title:          <!--position--> at <!--company-->
@@ -135,14 +136,14 @@ resume:
   publications:        Publications
   publications_title:  <!--name--> by <!--publisher-->
   references:          References
-  languages:           Langues
-  fluency:             Niveau
-  skills:              Compétences
-  level:               Niveau
-  interests:           Hobbies
-  summary:             Description
+  languages:           Languages
+  fluency:             Fluency
+  skills:              Skills
+  level:               Level
+  interests:           Interests
+  summary:             Summary
   keywords:            Keywords
-  print:               Impression
+  print:               Print
   download_pdf:        PDF
   download_vcf:        vCard
   download_json:       JSON
