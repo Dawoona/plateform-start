@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Graphic Design'
-caption: 0ptez pour du graphisme personnalisé
+caption:
 description: >
   Optez pour du graphisme personnalisé à votre image pour vos supports marketing, logos, illustrations, packaging, etc.
 date: 25 janvier 2023

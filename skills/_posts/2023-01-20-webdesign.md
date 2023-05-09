@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Web Design'
-caption: Offrez une expérience unique pour vos visiteurs
+caption:
 description: >
   Soignez l'organisation d'un site web et son contenu 
 date: 22 janvier 2023

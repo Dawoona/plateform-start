@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Design Print'
-caption: Embellissez vos messages en misant sur l'impression
+caption:
 description: >
  
 date: 20 janvier 2023

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Animation'
-caption: Dynamisez vos contenus pour plus d'attractivité
+caption:
 description: >
   Notre attention est multiplié quand il s'agit de visualiser du contenu animé. Mettez du dynamisme dans vos   présentations, vos publicités en ligne, pour augmenter vos chances d'être admiré et convertir.
 date: 24 janvier 2023
