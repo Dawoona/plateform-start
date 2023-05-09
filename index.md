@@ -10,6 +10,11 @@ En tant qu'expert du "pixel perfect" et ma passion pour le graphisme depuis plus
 
 Aujourd'hui, mon objectif est d'explorer de nouveaux horizons, d'exprimer ma créativité de manière différente, de tester de nouvelles idées, d'apprendre constamment et de façonner ma propre identité dans l'univers du design.
 
+Cette plateforme a pour but de centraliser et diffuser l'ensemble de mon travail et de mes réalisations personnelles.
+
+Je vous souhaite une agréable visite !
+(PS : ce n'est que le début, vers plus d'épanouissement et de sens à ma vie professionnelle)
+
 
 ---
 
