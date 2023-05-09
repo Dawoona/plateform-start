@@ -11,16 +11,6 @@ En tant qu'expert du "pixel perfect" et ma passion pour le graphisme depuis plus
 Aujourd'hui, mon objectif est d'explorer de nouveaux horizons, d'exprimer ma créativité de manière différente, de tester de nouvelles idées, d'apprendre constamment et de façonner ma propre identité dans l'univers du design.
 
 
-## Aujourd'hui, je peux aider les entreprises/agences :
-  <li>À développer ou renforcer leur image</li>
-  <li>À créer tout type de support à destination de leurs clients/partenaires</li>
-  <li>À me rendre disponible pour des demandes spécifiques en équipe ou solo</li>
-
-
-## Voici mon fonctionnement en 3 points :
-  <li>1/ Echanger efficacement (via les outils collaboratifs par ex.)</li>
-  <li>2/ Respect des contraintes/exigences entre les 2 parties</li>
-  <li>3/ Etre enthousiaste en toute circonstance et rendre l'impossible possible 🖖 </li>
 ---
 
 
