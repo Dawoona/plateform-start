@@ -3,7 +3,7 @@ layout: post
 title: 'Animation'
 caption:
 description: >
-  Notre attention est multiplié quand il s'agit de visualiser du contenu animé. Mettez du dynamisme dans vos   présentations, vos publicités en ligne, pour augmenter vos chances d'être admiré et convertir.
+
 date: 24 janvier 2023
 image: 
   path: /assets/img/services/cover-animation@2x-16.gif
