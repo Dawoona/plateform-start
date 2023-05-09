@@ -8,7 +8,7 @@ sitemap: false
 
 En tant qu'expert du "pixel perfect" et ma passion pour le graphisme depuis plus d'une décennie, j'ai eu l'opportunité de collaborer avec des start-ups innovantes dans divers secteurs tels que le e-commerce, le marketing digital et les événements d'entreprise. J'ai également eu la chance de travailler avec **[Mextor](https://mextor.com)**, une PME remarquable qui met à disposition ses compétences dans plusieurs domaines, notamment l'IT, qui rassemble une équipe de talents multidisciplinaires.
 
-Après plus de dix ans d'expérience dans le monde de la communication offline/online, je me suis lancé dans l'aventure entrepreneuriale afin d'explorer de nouveaux horizons, d'exprimer ma créativité de manière différente, de tester de nouvelles idées, d'apprendre constamment et de façonner ma propre identité dans l'univers du design.
+Aujourd'hui, je me lance dans l'aventure en solopreneur afin d'explorer de nouveaux horizons, d'exprimer ma créativité de manière différente, de tester de nouvelles idées, d'apprendre constamment et de façonner ma propre identité dans l'univers du design.
 
 
 ## Aujourd'hui, je peux aider les entreprises/agences :
