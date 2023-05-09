@@ -12,10 +12,6 @@ Aujourd'hui, mon objectif est d'explorer de nouveaux horizons, d'exprimer ma cr�
 
 Cette plateforme a pour but de centraliser et diffuser l'ensemble de mon travail et de mes réalisations personnelles.
 
-Je vous souhaite une agréable visite !
-(PS : ce n'est que le début, vers plus d'épanouissement et de sens à ma vie professionnelle)
-
-
 ---
 
 
