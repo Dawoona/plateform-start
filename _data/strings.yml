@@ -14,39 +14,39 @@ home:                  Accueil
 pages:                 Pages
 posts:                 Publications
 about:                 A propos
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
+related_posts:         Eléments similaires
+other_projects:        Autres projets
+comments:              Commentaires
+jump_to:               Accéder à
 navigation:            Navigation
 social:                Social
-links:                 Links
+links:                 Liens
 links_icon:            'icon-link'
 pagination:            Pagination
-newer:                 Newer
-older:                 Older
-forward:               Forward
-back:                  Back
-permalink:             Permalink
+newer:                 Plus récent
+older:                 Autre
+forward:               Transférer
+back:                  Retour
+permalink:             Liens permanents
 permalink_icon:        'content-hash'
 templates:             Templates (for web app)
 present:               present
 toc:                   Table of Contents
 note:                  Note
 description:           Description
-search:                Search
-search_placeholder:    Type something…
+search:                Recherche
+search_placeholder:    Tapez quelque chose...
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               Chargement…
+redirecting:           Redirection…
 
 continue_reading:      >
   Continue reading <!--post_title-->
 
 cookies_banner:
   text:                >
-    Ce site web utilise des cookies. [revenir à l'accueil](/).
-  okay:                Okay
+    Cette plateforme utilise des cookies pour améliorer votre expérience de navigation.
+  okay:                'OK'
 
 not_found:
   title:               'Oups !'
@@ -56,21 +56,21 @@ not_found:
   home_link:           Revenez à l'accueil
 
 offline:
-  title:               'You are Offline'
+  title:               'Oops ! Vous semblez être hors ligne.'
   message:             |
-    Sorry, but you appear to be offline and this page has not been prepared for offline viewing.
-    <!--home_link--> to try finding another page.
-  home_link:           Head back home
+    Désolé(e), mais il semble que vous soyez hors ligne et cette page n'a pas été préparée pour une visualisation hors ligne.
+    <!--home_link--> Essayer de trouver une autre page.
+  home_link:           Retourner à la page d'accueil.
 
 error:
-  title:               Error
+  title:               Erreur
   message:             |
-    Sorry, an error occurred while loading <!--link-->.
+    Désolé(e), une erreur est survenue lors du chargement.<!--link-->.
 
 # Separators
 # ---------------------------------------------------------------------------------------
-# posted:                'Posted'
-# last_modified_at:      'Last modified at'
+# posted:                'Publié'
+# last_modified_at:      'Dernière modification effectuée le'
 # last_modified_at_icon: 'icon-history'
 colon:                 ':'
 separator:             '|'
@@ -79,7 +79,7 @@ category_spearator:    ' / '
 tag_start:             'on '
 tag_separator:         ', '
 from_to_separator:     '–'
-breadcrumbs_home:      'home'
+breadcrumbs_home:      'accueil'
 breadcrumbs_separator: '/'
 
 # Date formats
@@ -99,7 +99,7 @@ date_formats:
 # ---------------------------------------------------------------------------------------
 # If you don't own the PRO version of Hydejack, modifying these will have no effect.
 
-tinyletter:
+# tinyletter:
   title:               Pour s'informer des actualités du moment 
   label:               Email
   placeholder:         Entrez votre adresse email
@@ -113,10 +113,9 @@ tinyletter:
     {:.faded}
 
 welcome:
-  more_projects:       See <!--projects_title--> for more
-  more_posts:          See <!--posts_title--> for more
+  more_projects:       Voir <!--projects_title--> pour plus d'informations
+  more_posts:          Voir <!--posts_title--> pour plus d'informations
 
-resume:
 resume:
   location:            Location
   location_separator:  ', '
