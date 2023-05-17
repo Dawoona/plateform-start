@@ -6,16 +6,15 @@ basics:
   label: "Graphiste 360"
   picture: "/assets/img/avatar-profil.jpg"
   email: "hello@selection-m.design"
-  mobile: "(+33)682819419"
+  phone: "(+33)682819419"
   summary: >
     Professionnel passionné de design et d’innovation dans **[le graphisme](https://www.adobe.com/fr/creativecloud/design/discover/what-is-graphic-design.html)** et le multimédia.
     --- Mes valeurs et leitmotivs : accepter le changement, évoluer avec les autres, vivre avec passion, être patient, se relever de nos échecs, s'amuser comme un enfant, respecter autrui, la loyauté...
   location:
-    # address: ""
-    postalCode: "75011"
+    address: ""
+    postalCode: ""
     city: "Paris"
-    countryCode: "France"
-    region: "Ile de France"
+    region: "Île-de-France"
   profiles:
     - network: "Instagram"
       username: "matdawoon"
@@ -23,30 +22,24 @@ basics:
     - network: "LinkedIn"
       username: "selection-m-design"
       url: "https://www.linkedin.com/in/selection-m-design/"
-Works:
-  - company: "Selection A"
-    position: "Associé"
-    website: "https://blog.naver.com/noussommesnous"
-    startDate: "2020-05-01"
-    endDate: ""
+work:
+  - company: "VisionRouge Shanghai | Stage"
+    position: "Assistant production vidéo, photographie"
+    website: "https://www.visionrouge.net/"
+    startDate: "2009-05-01"
+    endDate: "2009-08-01"
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      VisionRouge est une agence sino-chinoise de productions de vidéos et photographies corporate basée à Shanghai/Hong kong.
+      Stage découverte du monde de l'audiovisuel : observations et participations à des missions corporate avec des ingénieurs français spécialisés en son et lumière.
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-# volunteer:
-#  - organization: "CoderDojo"
-#   position: "Teacher"
-#   website: "https://coderdojo.com/"
-#   startDate: "01-01-2020"
-#   endDate: "2013-01-01"
-#   summary: "Global movement of free coding clubs for young people."
-#   highlights:
-#     - "Awarded 'Teacher of the Month'"
-Education:
+      - "Reportage photos effectué lors d'un événement corporate"
+      - "Retouches et intégration des images projets sur wordpress"
+      - "Mise en place du matériel vidéo sur le terrain"
+      - "Séquences d'interviews corporate observées sur le terrain"
+      - "Observation des séquences de calculs sur les démonstrations d'animations 3D sur Maya"
+      - "Approfondissement de l'anglais avec EF School Shanghai"
+
+education:
   - institution: "University of Oklahoma"
     area: "Information Technology"
     studyType: "Bachelor"
@@ -56,18 +49,18 @@ Education:
     courses:
       - "DB1101 - Basic SQL"
       - "CS2011 - Java Introduction"
-# awards:
+awards:
   - title: "Digital Compression Pioneer Award"
     date: "2014-11-01"
     awarder: "Techcrunch"
     summary: "There is no spoon."
-# publications:
-# - name: "Video compression for 3d media"
-#    publisher: "Hooli"
-#    releaseDate: "2014-10-01"
-#    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-#    objectif: "Innovative middle-out compression algorithm that changes the way we store data."
-Skills:
+publications:
+  - name: "Video compression for 3d media"
+    publisher: "Hooli"
+    releaseDate: "2014-10-01"
+    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+skills:
   - name: "Web Development"
     level: "Master"
     keywords:
@@ -80,16 +73,16 @@ Skills:
       - "Mpeg"
       - "MP4"
       - "GIF"
-Languages:
-  - language: "Anglais"
-    fluency: "Basic speaker"
-Interests:
-  - name: "Casual Gamer"
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+interests:
+  - name: "Wildlife"
     keywords:
       - "Ferrets"
       - "Unicorns"
-References:
-  - name: "Anne-Charlotte GRIVAUX, Directrice Agence"
+references:
+  - name: "Anne-Charlotte Grivaux"
     reference: >
       "J'ai eu le plaisir de collaborer avec Mathieu pendant 3 années durant lesquelles il a su relever de nombreux défis.
       Détermination, volonté et enthousiasme sont des qualités qu'il a mis au profil de l'entreprise.

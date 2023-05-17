@@ -41,7 +41,7 @@ loading:               Chargement…
 redirecting:           Redirection…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Continuer la lecture <!--post_title-->
 
 cookies_banner:
   text:                >
@@ -49,7 +49,7 @@ cookies_banner:
   okay:                'OK'
 
 not_found:
-  title:               'Oups !'
+  title:               'Oops !'
   message:             |
     Désolé, nous avons égaré ce lien ou elle pointe vers quelque chose qui n'existe pas.
     <!--home_link--> et reprenez votre navigation :)
@@ -117,32 +117,32 @@ welcome:
   more_posts:          Voir <!--posts_title--> pour plus d'informations
 
 resume:
-  location:            Location
+  location:            Localisation
   location_separator:  ', '
   email:               Email
-  phone:               Phone
+  phone:               Téléphone
   website:             Website
-  work:                Experience
-  work_title:          <!--position--> at <!--company-->
-  highlights:          Highlights
-  volunteer:           Volunteer
-  volunteer_title:     <!--position--> at <!--organization-->
-  education:           Education
-  education_title:     <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
+  work:                Expérience
+  work_title:          <!--position--> chez <!--company-->
+  highlights:          Moments forts
+  volunteer:           Bénévolat
+  volunteer_title:     <!--position--> chez <!--organization-->
+  education:           Formations
+  education_title:     <!--study_type--> en <!--area--> à <!--institution--> with GPA of <!--gpa-->
   courses:             Courses
   awards:              Awards
-  awards_title:        <!--title--> from <!--awarder-->
+  awards_title:        <!--title--> de <!--awarder-->
   publications:        Publications
-  publications_title:  <!--name--> by <!--publisher-->
+  publications_title:  <!--name--> par <!--publisher-->
   references:          References
-  languages:           Languages
-  fluency:             Fluency
-  skills:              Skills
-  level:               Level
-  interests:           Interests
-  summary:             Summary
-  keywords:            Keywords
-  print:               Print
+  languages:           Langues
+  fluency:             Maîtrise
+  skills:              Compétences
+  level:               Niveau
+  interests:           Centres d'intérêt
+  summary:             Description
+  keywords:            Mots clés
+  print:               Imprimer
   download_pdf:        PDF
   download_vcf:        vCard
   download_json:       JSON
