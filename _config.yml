@@ -25,8 +25,7 @@ title:                 Selection M
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Selection M est une plateforme proposant du contenu créatif sur des domaines tels que le graphisme et la tech.
-  Cette plateforme a pour but de centraliser et diffuser l’ensemble des travaux professionnels et personnels de Mathieu Lebreton, graphiste 360 indépendant à Paris.
+  Selection M est une plateforme privée de Mathieu Lebreton, graphiste 360 basé à Paris, diffusant du contenu créatif et technique dans le domaine du graphisme, le web et de la tech en général.
 
 # A shorter description for the sidebar.
 tagline:               Graphisme + Tech 👾  
