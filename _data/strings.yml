@@ -15,7 +15,7 @@ pages:                 Pages
 posts:                 Publications
 about:                 A propos
 related_posts:         Eléments similaires
-other_projects:        Autres projets
+other_projects:        Eléments similaires
 comments:              Commentaires
 jump_to:               Accéder à
 navigation:            Navigation
@@ -99,13 +99,13 @@ date_formats:
 # ---------------------------------------------------------------------------------------
 # If you don't own the PRO version of Hydejack, modifying these will have no effect.
 
-# tinyletter:
-  title:               Pour s'informer des actualités du moment 
-  label:               Email
-  placeholder:         Entrez votre adresse email
-  button:              Ça m'intéresse 👍 !
+#tinyletter:          
+  title:               Ma newsletter
+  label:               E-mail
+  placeholder:         Entrez votre adresse e-mail
+  button:              Ok, je m'abonne 👍 !
   message:             |
-    Retrouvrez quelques actualités et/ou astuces sur le graphisme et la tech.
+    Pour plus d'actualités et/ou astuces sur le graphisme et la tech.
 
     <!--form-->
 
@@ -128,18 +128,18 @@ resume:
   volunteer:           Bénévolat
   volunteer_title:     <!--position--> chez <!--organization-->
   education:           Formations
-  education_title:     <!--study_type--> en <!--area--> à <!--institution--> with GPA of <!--gpa-->
+  education_title:     <!--study_type--> en <!--area--> à <!--institution--> <!--gpa-->
   courses:             Courses
   awards:              Awards
   awards_title:        <!--title--> de <!--awarder-->
   publications:        Publications
   publications_title:  <!--name--> par <!--publisher-->
   references:          References
-  languages:           Langues
+  languages:           Talk
   fluency:             Maîtrise
-  skills:              Boîte à outils
+  skills:              Skills
   level:               Niveau
-  interests:           Centres d'intérêt
+  interests:           Hobbies
   summary:             Description
   keywords:            Mots clés
   print:               Imprimer
