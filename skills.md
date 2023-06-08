@@ -3,7 +3,7 @@ layout: grid
 title: Skills
 show_collection: skills
 description: >
-  Découvrez mes 6 champs de compétence dans la conception/réalisation de projets print, web et digitaux. (Créations ou refontes de logos, affiches, sites web, illustrations ou d’autres supports visuels personnels/professionnels).
+  Découvrez mes 6 champs de compétence dans la conception et la réalisation de projets print, web et digitaux, comprenant la création ou la refonte de logos, d'affiches, de sites web, d'illustrations et d'autres supports visuels, tant personnels que professionnels.
 
 no_groups: true
 ---

@@ -13,7 +13,7 @@ basics:
   location:
     address: ""
     postalCode: ""
-    city: "Paris"
+    city: "Paris 11"
     region: "Île-de-France"
   profiles:
     - network: "Instagram"
@@ -174,7 +174,7 @@ languages:
   - language: "Anglais"
     fluency: "★★☆☆"
   - language: "Coréen"
-    fluency: "★★☆☆"
+    fluency: "★☆☆☆"
     
 interests:
   - name: "Sports"
