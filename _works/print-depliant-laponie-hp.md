@@ -10,7 +10,7 @@ image:
   srcset: 
     1920w: /assets/img/works/cover-print-depliant-laponie-hp.jpg
     960w:  /assets/img/works/cover-print-depliant-laponie-hp@0,5x.jpg
-    480w:  /assets/img/works/cover-print-depliant-laponie-hp@0,25x.jpg
+    480w:  /assets/img/works/cover-print-depliant-laponie-hp.jpg
 
 sitemap: false
 
