@@ -143,7 +143,7 @@ resume:
   summary:             Description
   keywords:            Mots clés
   print:               Imprimer
-  download_pdf:        PDF
+  download_pdf:        Télécharger mon CV
   download_vcf:        vCard
   download_json:       JSON
   icons:
