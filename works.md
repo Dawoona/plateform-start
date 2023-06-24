@@ -3,6 +3,6 @@ layout: projects
 title: Works
 show_collection: works
 description: >
-  Bienvenue sur mon portfolio professionnel. Vous y trouverez une sélection de projets les plus pertinents, allant du print au web design, en passant par de la conception d'interface et de l'intégration web.
+  Bienvenue chers internautes/mobinautes. Vous y trouverez une sélection de projets (secteur de l'IT, du design mobilier, la fintech, le prêt à porter etc.) réalisés en agence, allant de la création/refonte de supports print et web, en passant par du motion pour des démos, ou des habillages dynamiques lors d'un tournage en studio.
 no_groups: true
 ---
