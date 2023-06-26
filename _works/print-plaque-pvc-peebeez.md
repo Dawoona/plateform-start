@@ -6,11 +6,11 @@ description: >
   
 date: '04-01-2017'
 image: 
-  path: /assets/img/works/cover-peebeez-plv-606x439-01-2023.jpg
+  path: /assets/img/works/cover-peebeez-plv.jpg
   srcset: 
-    1920w: /assets/img/works/cover-peebeez-plv-606x439-01-2023.jpg
-    960w:  /assets/img/works/cover-peebeez-plv-606x439-01-2023@0,5x.jpg
-    480w:  /assets/img/works/cover-peebeez-plv-606x439-01-2023.jpg
+    1920w: /assets/img/works/cover-peebeez-plv.jpg
+    960w:  /assets/img/works/cover-peebeez-plv@0,5x.jpg
+    480w:  /assets/img/works/cover-peebeez-plv@0,25x.jpg
 
 links:
   - title: Voir le site officiel Peebeez
