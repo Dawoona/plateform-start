@@ -1,0 +1,20 @@
+current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+/Users/matmat/.rbenv/versions/2.7.4/bin/ruby extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230808-37791-1dcq98y sitelibdir\=./.gem.20230808-37791-1dcq98y clean
+
+current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230808-37791-1dcq98y sitelibdir\=./.gem.20230808-37791-1dcq98y
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230808-37791-1dcq98y sitelibdir\=./.gem.20230808-37791-1dcq98y install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20230808-37791-1dcq98y/racc
+
+current directory: /Users/matmat/Desktop/plateform-start/vendor/bundle/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230808-37791-1dcq98y sitelibdir\=./.gem.20230808-37791-1dcq98y clean
