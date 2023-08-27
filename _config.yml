@@ -52,6 +52,8 @@ author:
 menu:
   - title:             Skills
     url:               /skills/
+  - title:             Artworks
+    url:               /artworks/   
   - title:             Works
     url:               /works/
   - title:             Profil
@@ -138,6 +140,7 @@ defaults:
   # # You can use the following to enable comments on all posts.
   - scope:
       type:            works
+                       artworks
     values:
       comments:        false
 
@@ -145,6 +148,7 @@ defaults:
   # but we want them to be `WebPage`s:
   - scope:
       type:            works
+                       artworks
     values:
       seo:
         type:          WebPage
