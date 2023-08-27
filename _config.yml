@@ -27,7 +27,7 @@ title:                 Selection M
 description:           >
   Selection M est une plateforme privée de Mathieu Lebreton, graphiste multimédia franco-coréen basé à Paris, diffusant du contenu professionnel et personnel créatif et technique dans le domaine du graphisme, le web et la tech.
 # A shorter description for the sidebar.
-tagline:               Graphisme + Tech 👾  
+tagline:               Graphisme + Tech 👾
 
 # A list of keywords for your blog
 keywords:              []
@@ -72,10 +72,12 @@ copyright:             © Selection M 2023. Tous droits réservés.
 
 # Format of the permalinks
 permalink:             /skills/:title/
+                       /artworks/:title/
 
 # Pagination configuration (used by the `blog` layout)
 # paginate:              10
 paginate_path:         /skills/:num/
+                       /artworks/:num/
 
 
 # Theme
@@ -296,6 +298,7 @@ hydejack:
 collections:
   featured_categories:
     permalink:         /skills/:name/
+                       /artworks/:name/
     output:            true
 
   featured_tags:
@@ -304,6 +307,10 @@ collections:
 
   works:
     permalink:         /works/:path/
+    output:            true
+
+  artworks:
+    permalink:         /artworks/:path/
     output:            true
 
 
