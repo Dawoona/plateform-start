@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Interface cardholder'
+title: 'Interface Cardholder Corporate'
 caption: Solution de paiements pour les entreprises
 description: >
   
