@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Perhentia'
-caption: Brand content & slider homepage 
+caption: Agence de communication 360 
 description: >
   
 date: '08-10-2021'
