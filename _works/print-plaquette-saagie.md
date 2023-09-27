@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Plaquette'
+title: 'Plaquette Saagie'
 caption: Plateforme DataOps pour vos projets data
 description: >
   
