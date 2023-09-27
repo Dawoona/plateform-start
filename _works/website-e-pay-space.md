@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Vitrine EPS'
+title: 'Site vitrine EPS'
 caption: E-Pay Space, Programme Manager & Fintech française
 description: >
   

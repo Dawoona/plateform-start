@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Perhentia'
+title: 'Site vitrine Perhentia'
 caption: Agence de communication 360 
 description: >
   

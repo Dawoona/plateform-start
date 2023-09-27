@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Marques Blanches'
-caption: Exemples d'habillages de l'interface corporate EPS aux couleurs d'une marque 
+caption: Interface corporate EPS personnalisable 
 description: >
   
 date: '11-03-2019'

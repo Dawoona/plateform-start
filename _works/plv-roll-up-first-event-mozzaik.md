@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Roll-up Mozzaik'
-caption: Créez votre digital workplace
+caption: Créez votre digital workplace dans Microsoft 365
 description: >
   
 date: '16-03-2022'

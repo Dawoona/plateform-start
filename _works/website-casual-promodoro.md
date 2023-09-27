@@ -9,8 +9,8 @@ image:
   path: /assets/img/works/cover-webdesign-promodoro-mobile.jpg
   srcset: 
     1920w: /assets/img/works/cover-webdesign-promodoro-mobile.jpg
-    960w:  /assets/img/works/cover-webdesign-promodoro@0,5x.jpg
-    480w:  /assets/img/works/cover-webdesign-promodoro@0,25x.jpg
+    960w:  /assets/img/works/cover-webdesign-promodoro-mobile.jpg
+    480w:  /assets/img/works/cover-webdesign-promodoro-mobile.jpg
 
 sitemap: false
 ---
