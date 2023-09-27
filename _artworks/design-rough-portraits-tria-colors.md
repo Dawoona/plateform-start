@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'Rough-face'
-caption: Tria colors + N&B
+title: 'Speed drawing portraits'
+caption: Un court moment immortalisé
 description: >
   
 date: '01-11-2009'

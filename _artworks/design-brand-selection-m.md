@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'Selection M'
-caption: Action painting & effet de vol
+title: 'Lettrine Selection M'
+caption: Personal branding
 description: >
   
 date: '05-10-2021'

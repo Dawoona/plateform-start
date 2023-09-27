@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'Depliant en accordéon 5 plis'
-caption: Perhentia, votre histoire, notre passion !
+title: 'Depliant Perhentia'
+caption: Agence 360 - Votre histoire, notre passion !
 description: >
   
 date: '24-07-2018'
