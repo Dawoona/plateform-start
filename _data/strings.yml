@@ -45,7 +45,7 @@ continue_reading:      >
 
 cookies_banner:
   text:                >
-    Cette plateforme utilise des cookies pour améliorer votre expérience de navigation.
+    Cette plateforme utilise les cookies pour améliorer votre expérience de navigation.
   okay:                'OK'
 
 not_found:
@@ -134,7 +134,7 @@ resume:
   awards_title:        <!--title--> de <!--awarder-->
   publications:        Publications
   publications_title:  <!--name--> par <!--publisher-->
-  references:          Avis collaborateur
+  references:          Avis collaborateurs
   languages:           Talk
   fluency:             Maîtrise
   skills:              Skills
