@@ -1,8 +1,8 @@
 body.dark-mode {
   --dark-mode-body-bg: #0d0d0d;
   --dark-mode-border-color: #212121;
-  --accent-color: rgb(255 255 255);
-  --accent-color-faded: rgba(255, 255, 255, 0.314);
+  --accent-color: #ffffff;
+  --accent-color-faded: #ffffff50;
 }
 
 body.light-mode {
@@ -28,6 +28,14 @@ body.light-mode {
   hy-push-state a {
     text-decoration-thickness: 0;
   }
+}
+.btn-primary {
+  color: #ffffff;
+  background-color: #fd4a23;
+}
+
+.btn-primary:hover {
+  background-color: #313131;
 }
 
 /*# sourceMappingURL=main.css.map */
