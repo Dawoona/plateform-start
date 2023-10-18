@@ -1,0 +1,36 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Mathieu Lebreton"
+  label: "Graphiste Multimédia"
+  picture: "/assets/img/avatar-profil.jpg"
+  email: "hello@selection-m.design"
+  phone: "(+33)682819419"
+  summary: >
+       Graphiste franco-coréen passionné de design et d’innovation dans le graphisme et la tech. Mes valeurs et leitmotivs : garder l'esprit ouvert, les élites sont mes alliés, le changement a du bon, suivre sa route...
+  location:
+    address: ""
+    postalCode: ""
+    city: "Paris 11"
+    region: "Île-de-France"
+  profiles:
+    - network: "Instagram"
+      username: "matdawoon"
+      url: "https://instagram.com/matdawoon"
+    - network: "LinkedIn"
+      username: "selection-m-design"
+      url: "https://www.linkedin.com/in/selection-m-design/"
+    
+references:
+  - name: "Anne-Charlotte (Directrice de clientèle - Perhentia)"
+    reference: >
+      "J'ai eu le plaisir de collaborer avec Mathieu pendant 3 années durant lesquelles il a su relever de nombreux défis.
+      Détermination, volonté et enthousiasme sont des qualités qu'il a mis au profil de l'entreprise.
+      Je recommande Mathieu pour ses qualités tant professionnelles que personnelles."
+  - name: "Sabine (Directrice d'agence - Perhentia)"
+    reference: >
+      "Un joli bout de chemin, on a créé ensemble l’une de mes plus grandes fiertés pro, l’agence Perhentia.
+      Merci pour ton professionnalisme, ta créativité, ton sérieux et ton honnêteté qui font de toi un collègue de taille.
+      Belle continuation !"
+
