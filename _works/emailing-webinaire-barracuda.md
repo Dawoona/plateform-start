@@ -3,9 +3,7 @@ layout: project
 title: 'Webinaire Barracuda'
 caption: Accélérez votre business avec la Barracuda Box
 description: >
-  1.Création graphique (Compositing)
-  2.Intégration du code HTML/CSS standard
-  3.Conversion de l'email .OFT (modèle Outlook)
+  Création graphique (Compositing) - Intégration du code HTML/CSS - Conversion de l'email .OFT (modèle Outlook)
 date: '21-10-2021'
 image: 
   path: /assets/img/works/cover-emailing-webinaire-barracuda.jpg
@@ -18,4 +16,4 @@ sitemap: false
 
 ---
 
-![Intégration du code HTML et conversion en .OFT](https://selection-m.design/assets/img/works/code-emailing-webinaire-barracuda.jpg)
+![Intégration du code HTML et conversion en .OFT](/assets/img/works/code-emailing-webinaire-barracuda.jpg)

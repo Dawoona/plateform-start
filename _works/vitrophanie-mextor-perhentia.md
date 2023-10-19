@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Décors adhésifs'
-caption: Les nouveaux locaux
+caption: Les nouveaux locaux Mextor
 description: >
-  
+    Création de vitrophanies grands formats
 date: '01-07-2020'
 image: 
   path: /assets/img/works/cover-vitrophanies-mextor-perhentia.jpg
@@ -18,3 +18,7 @@ links:
 sitemap: false
 
 ---
+
+![Mesures des vitres](/assets/img/works/mesures-vitres-locaux-mextor.jpg)
+
+![Façade version Ganj + Mextor](/assets/img/works/facade-vitrophanie-version-ganj-locaux-mextor.jpg)

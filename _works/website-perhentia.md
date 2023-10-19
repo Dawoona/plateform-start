@@ -3,7 +3,7 @@ layout: project
 title: 'Site vitrine Perhentia'
 caption: Agence de communication 360 
 description: >
-  
+  Web design - Intégration (assets + module jquery carousel slider) - Personnalisation avec CSS via Wordpress 3.7.21
 date: '08-10-2021'
 image: 
   path: /assets/img/works/cover-website-perhentia.jpg
@@ -15,3 +15,5 @@ image:
 sitemap: false
 
 ---
+
+![Personnalisation du site Perhentia - CSS](/assets/img/works/code-webdesign-site-perhentia.jpg)
