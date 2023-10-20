@@ -3,7 +3,7 @@ layout: project
 title: 'Roll-up Mozzaik'
 caption: Créez votre digital workplace dans Microsoft 365
 description: > 
-  Création graphique - Mise en forme + BAT
+  Design Print - Création d'un nouveau pattern avec Adobe Ai, mise en forme + BAT
 date: '16-03-2022'
 image: 
   path: /assets/img/works/cover-plv-roll-up-first-event-mozzaik.jpg

@@ -3,7 +3,7 @@ layout: project
 title: 'XP Metal Detector'
 caption: Illustration du détecteur de métaux de la gamme XP.
 description: >
-  
+  Graphic design - Illustration du détecteur de métaux de la gamme XR - Adobe Ai
 date: '28-04-2014'
 image: 
   path: /assets/img/works/cover-detecteur-metaux-xp.jpg

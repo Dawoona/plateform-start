@@ -3,7 +3,7 @@ layout: project
 title: 'Depliant Laponie'
 caption: Organisation d'un séminaire corporate (LAP)
 description: >
-  
+  Design Print - Mise en page + BAT avec Adobe Id
 date: '01-11-2020'
 image: 
   path: /assets/img/works/cover-print-depliant-laponie-hp.jpg

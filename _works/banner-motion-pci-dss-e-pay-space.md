@@ -3,7 +3,7 @@ layout: project
 title: 'PCI DSS'
 caption: Norme de sécurité de l'industrie des cartes de paiement
 description: >
-
+  Animation - Certification de la norme PCI-DSS avec Adobe Ae
 date: '01-03-2020'
 image: 
   path: /assets/img/works/cover-animation-linkedIn-pci-dss-e-pay-space-11-2020.gif

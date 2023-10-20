@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Webinaire Barracuda'
+title: 'Emailing Barracuda'
 caption: Accélérez votre business avec la Barracuda Box
 description: >
   Création graphique (Compositing) - Intégration du code HTML/CSS - Conversion de l'email .OFT (modèle Outlook)

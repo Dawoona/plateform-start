@@ -3,7 +3,7 @@ layout: project
 title: 'Voucher'
 caption: Organisation d'un séminaire corporate (LIS)
 description: >
-  
+  Design Print - Mise en page + BAT avec Adobe Id
 date: '04-01-2017'
 image: 
   path: /assets/img/works/cover-print-voucher-lisbonne.jpg

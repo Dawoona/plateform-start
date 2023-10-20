@@ -1,9 +1,9 @@
 ---
 layout: project
-title: 'Kit Work At Home'
+title: 'Visuel Kit Work At Home'
 caption: Les cartes de paiements pour les télétravailleurs
 description: >
-  
+  Web design - Présentation des avantages de la carte EPS pour les télétravailleurs
 date: '01-11-2020'
 image: 
   path: /assets/img/works/cover-kit-work-at-home-linkedIn-e-pay-space-11-2020-2.jpg
@@ -18,3 +18,4 @@ links:
 sitemap: false
 
 ---
+

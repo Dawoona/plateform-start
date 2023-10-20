@@ -3,7 +3,7 @@ layout: project
 title: 'Plaquette Saagie'
 caption: Plateforme DataOps pour vos projets data
 description: >
-  
+  Design Print - Mise en page + BAT avec Adobe Id
 date: '02-01-2017'
 image: 
   path: /assets/img/works/cover-print-plaquette-saagie.jpg

@@ -3,7 +3,7 @@ layout: project
 title: 'Site vitrine E-Pay Space'
 caption: E-Pay Space, Programme Manager & Fintech française
 description: >
-  Web design et développement sur Grav (Usage du docker, méthodologie BEM, git) - Scss, Yaml, Markdown, Twig
+  Web design - Gestion du front-end sur Grav (Usage du docker, méthodologie BEM, git) - Scss, Yaml, Markdown, Twig
 date: '01-11-2020'
 image: 
   path: /assets/img/works/cover-webdesign-e-pay-space.jpg

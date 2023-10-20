@@ -1,9 +1,9 @@
 ---
 layout: project
-title: 'Interface Cardholder Corporate'
+title: 'Interface Cardholder E-Pay Space'
 caption: Solution de paiements pour les entreprises
 description: >
-  
+  UI Design - Interface de gestion de cartes prépayées avec Sketch, Invision, Zeplin et Redmine
 date: '01-11-2020'
 image: 
   path: /assets/img/works/cover-interface-cardholder-e-pay-space.jpg
@@ -18,3 +18,5 @@ links:
 sitemap: false
 
 ---
+
+![Aperçu de l'interface cardholder corporate E-Pay Space](/assets/img/works/screens-interface-ch-corpo-e-pay-space.jpg)

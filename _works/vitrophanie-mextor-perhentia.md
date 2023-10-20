@@ -3,7 +3,7 @@ layout: project
 title: 'Décors adhésifs'
 caption: Les nouveaux locaux Mextor
 description: >
-    Création de vitrophanies grands formats
+  Design Print - Création des vitrophanies grands formats + BAT avec Adobe PS + Ai
 date: '01-07-2020'
 image: 
   path: /assets/img/works/cover-vitrophanies-mextor-perhentia.jpg

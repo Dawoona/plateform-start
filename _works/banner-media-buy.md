@@ -1,9 +1,9 @@
 ---
 layout: project
-title: 'Media Buy'
+title: 'Motion Media Buy'
 caption: Cartes virtuelles pour les achats média
 description: >
-
+  Animation - Campagne média buy avec Adobe Ae
 date: '01-11-2020'
 image: 
   path: /assets/img/works/cover-mediabuy-eps-606x439-11-2020.gif

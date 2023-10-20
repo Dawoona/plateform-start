@@ -1,9 +1,9 @@
 ---
 layout: project
-title: 'Demo EPS'
+title: 'La démo E-Pay Space'
 caption: Devenez votre propre banque avec EPS
 description: >
-
+  Animation - Présentation des solutions de paiements - Adobe Ae + Pr + Me
 date: '01-06-2020'
 image: 
   path: /assets/img/works/cover-motion-design-demo-e-payspace.gif

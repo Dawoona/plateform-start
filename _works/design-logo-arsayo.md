@@ -3,7 +3,7 @@ layout: project
 title: 'Arsayo'
 caption: Sac à dos innovant & vegan (inventé/fabriqué en france)
 description: >
-  
+  Graphic Design - Nouvelle identité visuelle - Adobe Ai + Id
 date: '04-01-2017'
 image: 
   path: /assets/img/works/cover-logo-arsayo.jpg

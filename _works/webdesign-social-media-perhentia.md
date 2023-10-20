@@ -1,9 +1,9 @@
 ---
 layout: project
-title: 'Visuels campagnes RS Perhentia'
-caption: Agence de communication 360 
+title: 'Emailings Perhentia'
+caption: Campagnes internes
 description: >
-  Création graphique - Publications Linkedin
+  Web design - graphisme, intégration et routage avec Mailjet - Déclinaisons pour Linkedin
 date: '08-10-2021'
 image: 
   path: /assets/img/works/cover-webdesign-social-media-perhentia.jpg
@@ -15,3 +15,5 @@ image:
 sitemap: false
 
 ---
+
+![Créations des assets et intégrations des emailings via Mailjet et déclinaison pour Linkedin](/assets/img/works/design-emailings-perhentia.jpg)

@@ -3,7 +3,7 @@ layout: project
 title: 'Bons de commande/service'
 caption: Manuel de bons Lapeyre
 description: >
-  
+  Design Print - Mise en page avec Adobe Id
 date: '02-12-2019'
 image: 
   path: /assets/img/works/cover-print-carnet-de-bons-de-commande-lapeyre.jpg
