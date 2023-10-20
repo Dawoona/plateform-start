@@ -3,7 +3,7 @@ layout: project
 title: 'CIO Leaders WFH'
 caption: Soirée dégustation 
 description: >
-  
+    Intégration - Emailing et landing page + formulaire de contact - HTML/CSS - Marketing automation
 date: '08-10-2021'
 image: 
   path: /assets/img/works/cover-webdesign-cio-leaders-wfh.jpg
@@ -15,3 +15,5 @@ image:
 sitemap: false
 
 ---
+
+![Intégration invitation + landing page - marketing automation](/assets/img/works/code-cio-leaders-campaign.jpg)

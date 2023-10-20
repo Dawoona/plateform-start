@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Lyon Côté Croix-Rousse'
-caption: Dépliant 3 volets - Croix Rousse CRAC artisans et commerçants
+caption: Croix Rousse CRAC artisans et commerçants
 description: >
-  
+  Design Print - Dépliant 3 volets - Avec QuarkXpress
 date: '04-01-2007'
 image: 
   path: /assets/img/works/cover-print-depliant-croix-rousse.jpg
