@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Dashboad EPS personnalisable'
+title: 'Dashboard EPS personnalisable'
 caption: Devenir distributeur en marque blanche
 description: >
   UI Design - Déclinaison de l'interface cardholder EPS avec Sketch + Camtasia
