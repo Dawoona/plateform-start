@@ -20,12 +20,12 @@
 lang:                  FR
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Selection M
+title:                 Mathieu Lebreton
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Selection M est une plateforme privée de Mathieu Lebreton, graphiste multimédia basé à Paris, diffusant du contenu professionnel et personnel créatif et technique dans le domaine du graphisme, le web et la tech.
+  Vous êtes sur la plateforme privée de Mathieu Lebreton, graphiste multimédia basé à Paris, diffusant du contenu professionnel et personnel créatif et technique dans le domaine du graphisme, le web et la tech.
 # A shorter description for the sidebar.
 tagline:               Graphisme + Tech 👾
 
