@@ -5,7 +5,7 @@ basics:
   name: "Mathieu Lebreton"
   label: "Graphiste Multimédia"
   picture: "/assets/img/avatar-profil.jpg"
-  email: "hello@selection-m.design"
+  email: "hello@mathieu-lebreton"
   phone: "(+33)682819419"
   summary: >
        Passionné de design et d’innovation dans le graphisme et la tech. Mes valeurs et leitmotivs : garder l'esprit ouvert, les élites sont mes alliés, le changement a du bon, suivre sa route...
@@ -19,8 +19,8 @@ basics:
       username: "matdawoon"
       url: "https://instagram.com/matdawoon"
     - network: "LinkedIn"
-      username: "selection-m-design"
-      url: "https://www.linkedin.com/in/selection-m-design/"
+      username: "mathieu-lebreton"
+      url: "https://www.linkedin.com/in/mathieu-lebreton/"
     
 references:
   - name: "Anne-Charlotte (Directrice de clientèle - Perhentia)"

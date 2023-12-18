@@ -21,13 +21,13 @@ Le site web Selection-m.design est un site vitrine qui ne collecte pas de donné
 Les données à caractère personnel collectées sont utilisées pour améliorer et assurer la prestation de services pour les clients de la micro-entreprise. Elles peuvent également être utilisées pour se conformer aux obligations légales et réglementaires de la micro-entreprise, notamment dans le domaine pénal. Les données personnelles des clients ne seront pas utilisées à des fins publicitaires.
 
 ##### 1.4. Responsable de traitement.
-Les clients peuvent contacter la micro-entreprise Selection M à l'adresse suivante pour toute question relative au traitement de leurs données personnelles : **[hello@selection-m.design](hello@selection-m.design)**
+Les clients peuvent contacter la micro-entreprise Selection M à l'adresse suivante pour toute question relative au traitement de leurs données personnelles : **[hello@mathieu-lebreton.com](hello@mathieu-lebreton.com)**
 
 #### Article 2. Utilisation des cookies.
 Le site web Selection-m.design utilise des cookies pour faciliter la navigation sur le site, collecter des informations relatives au fonctionnement du site et détecter l'origine des incidents techniques. L'utilisation des cookies n'est pas obligatoire pour le fonctionnement du site et est soumise à l'acceptation expresse du visiteur. Les visiteurs peuvent paramétrer leur dispositif de connexion en conséquence.
 
 #### Article 3. Droits des visiteurs et clients.
-Les visiteurs et clients disposent de droits relatifs à leurs données à caractère personnel conformément aux dispositions légales en vigueur. Pour exercer ces droits, ils peuvent contacter le responsable du traitement des données à caractère personnel de la micro-entreprise Selection M à l'adresse suivante : **[data@selection-m.design](data@selection-m.design)**. Ces droits peuvent être exercés gratuitement, sous réserve de demandes abusives.
+Les visiteurs et clients disposent de droits relatifs à leurs données à caractère personnel conformément aux dispositions légales en vigueur. Pour exercer ces droits, ils peuvent contacter le responsable du traitement des données à caractère personnel de la micro-entreprise Selection M à l'adresse suivante : **[data@mathieu-lebreton.com](data@mathieu-lebreton.com)**. Ces droits peuvent être exercés gratuitement, sous réserve de demandes abusives.
 
 ##### 3.1. Droit d’accès et de révocation.
 Les clients ont le droit d'accéder gratuitement à leurs données personnelles, de les rectifier, de les bloquer ou de les effacer. Ils peuvent également retirer leur consentement à tout moment en s'adressant au responsable clients de la micro-entreprise Selection M.

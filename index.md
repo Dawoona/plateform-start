@@ -13,4 +13,4 @@ Cette plateforme a pour but de centraliser et de diffuser l'ensemble de mon trav
 ---
 
 
-Pour plus d'informations : [hello@selection-m.design](mailto:hello@selection-m.design)
+Pour plus d'informations : [hello@mathieu-lebreton.com](mailto:hello@mathieu-lebreton.com)
