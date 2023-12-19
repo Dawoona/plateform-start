@@ -2,7 +2,7 @@
 layout: resume
 title: Profil
 description: >
-    Professionnel passionné de design et d’innovation dans le graphisme et la tech. — Mes valeurs et leitmotivs : accueillir le changement, être résilient, persévérer, se remettre en question, maîtriser notre mental, vivre avec passion...
+    Fervent adepte du graphisme et du web, je crée des visuels percutants et explore le développement. En progressant dans le domaine du web, j'aspire à évoluer vers un rôle de développeur, mettant en œuvre ma vision 360 pour des collaborations efficaces et des résultats de qualité. Ouvert aux nouvelles opportunités, je suis disponible pour explorer et enrichir de nouveaux projets.
 hide_description: true
 left_column:
   - work
