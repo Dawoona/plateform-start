@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://selection-m.design
+# url:                   https://mathieu-lebreton.com
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/plateform`,
@@ -25,7 +25,7 @@ title:                 Selection M
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Vous êtes sur la plateforme privée de Mathieu Lebreton, graphiste multimédia basé à Paris, diffusant du contenu professionnel et personnel créatif et technique dans le domaine du graphisme, le web et la tech.
+  Mathieu Lebreton, graphiste multimédia, diffusant ses travaux professionnels et personnels créatifs et techniques dans le domaine du graphisme, et la tech.
 # A shorter description for the sidebar.
 tagline:               Graphisme + Tech 👾
 
