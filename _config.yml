@@ -25,7 +25,7 @@ title:                 Selection M
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Mathieu Lebreton, graphiste multimédia, diffusant ses travaux professionnels et personnels créatifs et techniques dans le domaine du graphisme, et la tech.
+  Mathieu Lebreton, graphiste freelance, fervent adepte du graphisme et de la tech, j’aspire à évoluer perpétuellement dans le numérique, mettant en œuvre ma vision 360 pour des collaborations épanouissantes et de qualités. Ouvert aux nouvelles opportunités, je suis disponible pour explorer et enrichir de nouveaux projets.
 # A shorter description for the sidebar.
 tagline:               Graphisme + Tech 👾
 
@@ -50,14 +50,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Skills
-    url:               /skills/
-  - title:             Artworks
-    url:               /artworks/   
+  - title:             Profil
+    url:               /profil/ 
   - title:             Works
     url:               /works/
-  - title:             Profil
-    url:               /profil/
+  - title:             Artworks
+    url:               /artworks/  
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -71,12 +70,12 @@ legal:
 copyright:             © Mathieu Lebreton 2023. Tous droits réservés.
 
 # Format of the permalinks
-permalink:             /skills/:title/
+permalink:             /works/:title/
                        /artworks/:title/
 
 # Pagination configuration (used by the `blog` layout)
 # paginate:              10
-paginate_path:         /skills/:num/
+paginate_path:         /works/:num/
                        /artworks/:num/
 
 
