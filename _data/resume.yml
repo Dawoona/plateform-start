@@ -3,15 +3,14 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Mathieu Lebreton"
-  label: "Graphiste Multimédia 🐱 Futur développeur"
+  label: "Graphiste Freelance 🐱 | JS React + Blender/Unreal Engine 5 🎯 "
   picture: "/assets/img/avatar-profil.jpg"
   email: "hello@mathieu-lebreton"
   phone: "(+33)682819419"
   summary: >
-       Fervent adepte du graphisme et du web, je crée des visuels percutants et explore le développement.
-       En progressant dans le domaine du web, j'aspire à évoluer vers un rôle de développeur,
-       mettant en œuvre ma vision 360 pour des collaborations efficaces et des résultats de qualité.
-       Ouvert aux nouvelles opportunités, je suis disponible pour explorer et enrichir de nouveaux projets.
+      Fervent adepte du graphisme et de la tech, j’aspire à évoluer perpétuellement dans le numérique,
+      mettant en œuvre ma vision 360 pour des collaborations épanouissantes et de qualités.
+      Ouvert aux nouvelles opportunités, je suis disponible pour explorer et enrichir de nouveaux projets.
   location:
     address: ""
     postalCode: ""
