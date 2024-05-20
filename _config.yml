@@ -20,7 +20,7 @@
 lang:                  FR
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Selection M
+title:                 Mathieu Lebreton
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -35,7 +35,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/selection-m.png
+logo:                  /assets/img/logo-m.png
 
 favicon: /assets/img/icons/favicon.ico
 apple_touch_icon: /assets/img/selection-m.png
@@ -67,7 +67,7 @@ legal:
     url:               /protection-des-donnees/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © Mathieu Lebreton 2023. Tous droits réservés.
+copyright:             © Mathieu Lebreton 2024. Tous droits réservés.
 
 # Format of the permalinks
 permalink:             /works/:title/

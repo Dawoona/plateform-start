@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Mathieu Lebreton
-  email:             hello@mathieu-lebreton.com
+  # name:              Mat
+  # email:             hello@mathieu-lebreton.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -24,8 +24,8 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:          Matdawoon
-    email:           hello@mathieu-lebreton.com
+    # github:          <username>
+    # email:           <username>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -36,7 +36,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       matdawoon
+    # instagram:       <username>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -54,7 +54,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        lebreton-mathieu
+    # linkedin:        <username>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
