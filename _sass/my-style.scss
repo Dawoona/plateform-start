@@ -1,3 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+/*
+html {
+  --font-family: Manrope,Helvetica,Arial,sans-serif;
+  --font-family-heading: Manrope,Helvetica,Arial,sans-serif;
+  --code-font-family: Fira Code,Menlo,Monaco,Consolas,monospace;
+}
+*/
+
+.f1, h1, .h1 {
+  font-size: 1.5rem;
+}
+
+.f3, h3 .h3 {
+  font-size: 1.2rem;
+}
+
+@media screen and (min-width: 1664px) {
+body:not(.no-large-headings) .content h1, body:not(.no-large-headings) .content .h1 {
+    width: calc(100% + 50vw - 32rem);
+    font-size: 2.3rem;
+}
+
+}
+
+main:not(.layout-resume) .project-card>.project-card-title {
+  font-size: 1rem;
+}
+
 body.dark-mode {
   --dark-mode-body-bg: #0d0d0d;
   --dark-mode-border-color: #212121;

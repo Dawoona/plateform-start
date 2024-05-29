@@ -13,7 +13,6 @@ basics:
   location:
     address: ""
     postalCode: ""
-    city: "Paris 11"
     region: "Île-de-France"
   profiles:
     - network: "LinkedIn"
