@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Arsayo'
-caption: Sac à dos innovant & vegan (inventé/fabriqué en france)
+caption: Sac à dos vegan fabriqué en France
 description: >
   (En cours de construction)
 date: '04-01-2017'
