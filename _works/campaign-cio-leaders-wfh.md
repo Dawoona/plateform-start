@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'CIO Leaders WFH'
-caption: Soirée dégustation 
+title: 'Delphix'
+caption: CIO Leaders WFH (Soirée dégustation en ligne) 
 description: >
     Intégration - Emailing, landing page + formulaire de contact - Marketing automation
 date: '08-10-2021'
