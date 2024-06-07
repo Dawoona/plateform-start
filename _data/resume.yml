@@ -2,7 +2,7 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Graphiste Pluridisciplinaire"
+  name: "Graphiste Multimédia"
   label: "Freelance"
   picture: "/assets/img/avatar-profil.jpg"
   email: "hello@mathieu-lebreton"
