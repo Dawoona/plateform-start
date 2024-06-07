@@ -52,8 +52,8 @@ author:
 menu:
   - title:             Profil
     url:               /profil/ 
-  - title:             Works
-    url:               /works/
+  - title:             Proworks
+    url:               /proworks/
   - title:             Artworks
     url:               /artworks/  
 
@@ -70,12 +70,12 @@ legal:
 copyright:             © Mathieu Lebreton 2024. Tous droits réservés.
 
 # Format of the permalinks
-permalink:             /works/:title/
+permalink:             /proworks/:title/
                        /artworks/:title/
 
 # Pagination configuration (used by the `blog` layout)
 # paginate:              10
-paginate_path:         /works/:num/
+paginate_path:         /proworks/:num/
                        /artworks/:num/
 
 
@@ -140,7 +140,7 @@ defaults:
 
   # # You can use the following to enable comments on all posts.
   - scope:
-      type:            works
+      type:            proworks
                        artworks
     values:
       comments:        false
@@ -148,7 +148,7 @@ defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
   - scope:
-      type:            works
+      type:            proworks
                        artworks
     values:
       seo:
@@ -297,6 +297,7 @@ hydejack:
 collections:
   featured_categories:
     permalink:         /skills/:name/
+                       /proworks/:name/
                        /artworks/:name/
     output:            true
 
@@ -304,8 +305,8 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-  works:
-    permalink:         /works/:path/
+  proworks:
+    permalink:         /proworks/:path/
     output:            true
 
   artworks:

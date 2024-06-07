@@ -2,14 +2,14 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Graphiste Multimédia"
-  label: "Ex Associé @Selection A (Vente à distance) | Recherche un poste en agence/ou full remote freelance"
+  name: "Graphiste Pluridisciplinaire"
+  label: "Freelance"
   picture: "/assets/img/avatar-profil.jpg"
   email: "hello@mathieu-lebreton"
   
   summary: >
-          Fervent adepte du graphisme et de la tech, j’aspire à évoluer perpétuellement dans le numérique, mettant en œuvre ma vision à 360 pour des collaborations épanouissantes et de qualité. Ouvert aux nouvelles opportunités, je suis disponible pour explorer et enrichir de nouveaux projets.
-
+          Graphiste et expert web, j'allie technique et design pour créer des projets de qualité.
+          Mes compétences couvrent le design print, le web design, l'intégration web, la 3D, le motion, ainsi que le dessin. J'ai à cœur de collaborer avec les plus exigeants, que ce soit des entreprises, des agences spécialisées, ou des indépendants.
   location:
     address: ""
     postalCode: ""
