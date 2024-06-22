@@ -31,14 +31,14 @@ main:not(.layout-resume) .project-card>.project-card-title {
 body.dark-mode {
   --dark-mode-body-bg: #0d0d0d;
   --dark-mode-border-color: #212121;
-  --accent-color: #ffffff;
-  --accent-color-faded: #ffffff50;
+  --accent-color: #1d4350;
+  --accent-color-faded: #2183a6 ;
 }
 
 body.light-mode {
   --dark-mode-border-color: #212121;
-  --accent-color: rgb(71, 71, 71);
-  --accent-color-faded: rgb(175, 175, 175, 0.314);
+  --accent-color: #1d4350;
+  --accent-color-faded: #2183a6;
 }
 
 .sidebar-about>a.sidebar-title::after {
@@ -58,13 +58,4 @@ body.light-mode {
   hy-push-state a {
       text-decoration-thickness: 0;
   }
-}
-
-.btn-primary {
-  color: #ffffff;
-  background-color: #fd4a23;
-}
-
-.btn-primary:hover {
-  background-color: #313131;
 }
