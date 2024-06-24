@@ -52,10 +52,10 @@ author:
 menu:
   - title:             Profil
     url:               /profil/ 
-  - title:             Proworks
-    url:               /proworks/
-  - title:             Artworks
-    url:               /artworks/  
+  - title:             Prowork
+    url:               /prowork/
+  - title:             Artwork
+    url:               /artwork/  
 
 
 # Add links to the footer.
@@ -70,13 +70,13 @@ legal:
 copyright:             © Mathieu Lebreton 2024. Tous droits réservés.
 
 # Format of the permalinks
-permalink:             /proworks/:title/
-                       /artworks/:title/
+permalink:             /prowork/:title/
+                       /artwork/:title/
 
 # Pagination configuration (used by the `blog` layout)
 # paginate:              10
-paginate_path:         /proworks/:num/
-                       /artworks/:num/
+paginate_path:         /prowork/:num/
+                       /artwork/:num/
 
 
 # Theme
@@ -140,16 +140,16 @@ defaults:
 
   # # You can use the following to enable comments on all posts.
   - scope:
-      type:            proworks
-                       artworks
+      type:            prowork
+                       artwork
     values:
       comments:        false
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
   - scope:
-      type:            proworks
-                       artworks
+      type:            prowork
+                       artwork
     values:
       seo:
         type:          WebPage
@@ -297,20 +297,20 @@ hydejack:
 collections:
   featured_categories:
     permalink:         /skills/:name/
-                       /proworks/:name/
-                       /artworks/:name/
+                       /prowork/:name/
+                       /artwork/:name/
     output:            true
 
   featured_tags:
     permalink:         /tag-:name/
     output:            true
 
-  proworks:
-    permalink:         /proworks/:path/
+  prowork:
+    permalink:         /prowork/:path/
     output:            true
 
-  artworks:
-    permalink:         /artworks/:path/
+  artwork:
+    permalink:         /artwork/:path/
     output:            true
 
 
