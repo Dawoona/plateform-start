@@ -20,14 +20,17 @@
 lang:                  FR
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Mathieu Lebreton
+title:                 Mathieu L.
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Mathieu Lebreton, graphiste freelance, fervent adepte du graphisme et de la tech, j’aspire à évoluer perpétuellement dans le numérique, mettant en œuvre ma vision 360 pour des collaborations épanouissantes et de qualités. Ouvert aux nouvelles opportunités, je suis disponible pour explorer et enrichir de nouveaux projets.
+                       En tant que designer pluridisciplinaire, j'allie technique et design pour créer des projets de qualité.
+                       Mes compétences couvrent le design d'expérience, le web design, l'intégration, la 3D, le motion et le print,
+                       ainsi que le dessin. J'ai à cœur de collaborer avec engagement, que ce soit des entreprises leaders,
+                       ou des agences à taille humaine spécialisées ou des indépendants/solopreneurs.
 # A shorter description for the sidebar.
-tagline:               Graphisme + Tech 👾
+tagline:               Designer
 
 # A list of keywords for your blog
 keywords:              []
