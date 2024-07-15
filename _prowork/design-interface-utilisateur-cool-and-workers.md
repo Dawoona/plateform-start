@@ -8,11 +8,11 @@ description: >
   **Outils et/ou méthode de conception** : Figma, méthode Atomic Design.
 date: '25-11-2020'
 image: 
-  path: /assets/img/prowork/cover-design-interface-utilisateur-cool-and-workers.png
+  path: /assets/img/prowork/cover-design-interface-utilisateur-cool-and-workers.jpg
   srcset: 
-    1920w: /assets/img/prowork/cover-design-interface-utilisateur-cool-and-workers.png
-    960w:  /assets/img/prowork/cover-design-interface-utilisateur-cool-and-workers.png
-    480w:  /assets/img/prowork/cover-design-interface-utilisateur-cool-and-workers.png
+    1920w: /assets/img/prowork/cover-design-interface-utilisateur-cool-and-workers.jpg
+    960w:  /assets/img/prowork/cover-design-interface-utilisateur-cool-and-workers@0.5x.jpg
+    480w:  /assets/img/prowork/cover-design-interface-utilisateur-cool-and-workers@0.25x.jpg
 
 links:
   - title: Voir le site officiel de Cool & Workers
