@@ -4,8 +4,8 @@ title: 'E-Pay Space'
 caption: solutions de paiement sur-mesure (BaaS)
 description: >
   **Client** : E-Pay Space, fintech française, créatrice de solutions de paiement sur-mesure, Banking as a Service, et de solutions clé-en-main avec cartes prépayées et e-Wallets.<br/><br/>
-  **Mission** : Créer l'identité et l'univers graphique d'E-Pay Space, en produisant tous les supports de communication (supports imprimés, site web, campagne marketing, posts LinkedIn).<br/><br/>
-  Développer une version avancée de leur solution Banking as a Service, en définissant une nouvelle expérience utilisateur centrée sur l'utilisateur, en appliquant des méthodes telles que la création de personas et la définition des spécificités fonctionnelles de l'interface, en conformité avec les systèmes et réglementations financières.<br/><br/>
+  **Mission** : Créer l'identité et l'univers graphique d'E-Pay Space, en produisant les supports de communication (supports imprimés, site web, campagne marketing, posts LinkedIn).<br/><br/>
+  Développer une version plus avancée de leur solution BaaS, en définissant une nouvelle expérience utilisateur, en appliquant des méthodes telles que la création de personas, la mise en place d'ateliers de conception et de validation sur les spécificités fonctionnelles de l'interface (Gestion des transactions et commissions, système de recherche filtrée, gestions des cartes de paiements...), en conformité avec les systèmes et réglementations financières.<br/><br/>
   **Outils et/ou technologies** : Adobe Creative Suite (Photoshop, Illustrator, InDesign), outils UX/UI (Sketch, Zeplin, Capian, Invision, Figma), Microsoft Office, HTML/CSS, technologies de développement web, méthodologies UX (personas, wireframing, prototyping).
 date: '25-11-2020'
 image: 
