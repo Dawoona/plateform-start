@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'E-Pay Space'
-caption: solutions de paiement sur-mesure (BaaS)
+caption: Solutions de paiement sur-mesure (BaaS)
 description: >
   **Client** : E-Pay Space, fintech française, créatrice de solutions de paiement sur-mesure, Banking as a Service, et de solutions clé-en-main avec cartes prépayées et e-Wallets.<br/><br/>
   **Mission** : Créer l'identité et l'univers graphique d'E-Pay Space, en produisant les supports de communication (supports imprimés, site web, campagne marketing, posts LinkedIn).<br/><br/>

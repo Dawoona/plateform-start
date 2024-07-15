@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Maison de la détection'
-caption: Boutique de détecteur de métaux 
+caption: Boutique de détecteurs de métaux 
 description: >
   **Client** : Maison de la Détection, spécialiste des détecteurs de métaux depuis 1978, offre un large choix d'équipements de détection avec plus de 40 ans d'expérience et des conseils experts.<br/><br/>
   **Mission** : Concevoir des pages web attractives et immersives pour l'univers de Geomass, présentant une large gamme de détecteurs de métaux. Créer un système graphique cohérent et déclinable, avec une page produit unique. Refonte de la page "Mon compte" du site officiel de la Maison de la Détection, optimisée sur mobile.<br/><br/>
