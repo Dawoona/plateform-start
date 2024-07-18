@@ -3,6 +3,6 @@ layout: projects
 title: Prowork
 show_collection: prowork
 description: >
-  Vous y trouverez une sélection de projets (secteur de l'IT, du design mobilier, la fintech, le prêt à porter etc.) réalisés en agence, allant de la création/refonte de supports print et web, en passant par du motion pour des démos, ou des habillages dynamiques lors d'un tournage en studio.
+      Mes expériences stimulent ma curiosité et ma réflexion face aux défis techniques, créatifs et de gestion de projets complexes. Chaque expérience m'enrichit et me permet d'aller au-delà de mes acquis. Dans un monde digital en constante évolution, cette adaptabilité est essentielle pour créer des solutions innovantes et impactantes. Je suis ouvert à de nouveaux secteurs, chaque projet représentant une nouvelle opportunité de repousser les limites et d'offrir des prestations de services toujours plus adaptées.
 no_groups: true
 ---
