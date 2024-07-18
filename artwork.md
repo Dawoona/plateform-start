@@ -3,7 +3,7 @@ layout: projects
 title: Artwork
 show_collection: artwork
 description: >
-  Vous y trouverez toutes mes idées extra professionnels en graphisme.
+  Vous y trouverez toutes mes idées et expériences en matière de graphisme, en mode exploration et développement personnelle.
   
 no_groups: true 
 ---
