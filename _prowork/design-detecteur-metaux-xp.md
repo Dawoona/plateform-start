@@ -8,11 +8,11 @@ description: >
   **Outils et/ou technologies** : PrestaShop + Adobe PS/Ai.
 date: '28-04-2014'
 image: 
-  path: /assets/img/prowork/cover-geomass-mdd.jpg
+  path: /assets/img/prowork/cover-detecteur-metaux-xp.jpg
   srcset: 
-    1920w: /assets/img/prowork/cover-geomass-mdd.jpg
-    960w:  /assets/img/prowork/cover-geomass-mdd@0,5x.jpg
-    480w:  /assets/img/prowork/cover-geomass-mdd@0,25x.jpg
+    1920w: /assets/img/prowork/cover-detecteur-metaux-xp.jpg
+    960w:  /assets/img/prowork/cover-detecteur-metaux-xp@0.5x.jpg
+    480w:  /assets/img/prowork/cover-detecteur-metaux-xp@0.25x.jpg
 
 links:
   - title: En savoir + sur MDD
@@ -22,12 +22,7 @@ sitemap: false
 
 ---
 
-
 ![Breadcrumbs](/assets/img/prowork/cover-webdesign-modal-geomass-mdd.jpg){:.border.lead loading="lazy"}
-
----
-
-![Breadcrumbs](/assets/img/prowork/cover-detecteur-metaux-xp.jpg){:.border.lead loading="lazy"}
 
 ---
 

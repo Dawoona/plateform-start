@@ -8,11 +8,11 @@ description: >
   **Outils et/ou technologies** : Adobe Ps/Ai/In - Microsoft Outlook + Office365 - HTML/CSS 
 date: '01-11-2020'
 image: 
-  path: /assets/img/prowork/cover-microsoft.jpg
+  path: /assets/img/prowork/cover-design-print-microsoft.jpg
   srcset: 
-    1920w: /assets/img/prowork/cover-microsoft.jpg
-    960w:  /assets/img/prowork/cover-microsoft.jpg
-    480w:  /assets/img/prowork/cover-microsoft.jpg
+    1920w: /assets/img/prowork/cover-design-print-microsoft.jpg
+    960w:  /assets/img/prowork/cover-design-print-microsoft@0.5x.jpg
+    480w:  /assets/img/prowork/cover-design-print-microsoft@0.25x.jpg
 
 sitemap: false
 ---
