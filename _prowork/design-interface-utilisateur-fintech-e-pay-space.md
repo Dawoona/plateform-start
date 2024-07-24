@@ -3,9 +3,9 @@ layout: project
 title: 'E-Pay Space'
 caption: Solutions de paiement sur-mesure (BaaS)
 description: >
-  **Client** : E-Pay Space, fintech française, créatrice de solutions de paiement sur-mesure, Banking as a Service, et de solutions clé-en-main avec cartes prépayées et e-Wallets.<br/><br/>
-  **Mission** : Développer une version plus avancée de leur solution BaaS, en définissant une nouvelle expérience utilisateur, en appliquant des méthodes telles que la création de personas, la mise en place d'ateliers de conception et de validation sur les spécificités fonctionnelles de l'interface (Gestion des transactions et commissions, système de recherche filtrée, gestions des cartes de paiements...), en conformité avec les systèmes et réglementations financières.<br/><br/>
-  **Outils et/ou technologies** : Adobe Creative Suite (Photoshop, Illustrator, InDesign), outils UX/UI (Sketch, Zeplin, Capian, Invision, Figma), Microsoft Office, HTML/CSS, technologies de développement web, méthodologies UX (personas, wireframing, prototyping).
+  **Client** : Fintech française nommé E-Pay Space développé par MGNY (Mextor Corp), propriétaire et experte en solution (BaaS) de paiement sur-mesure virtualisé, et de gestion de programme manager.<br/><br/>
+  **Mission** : Développer une version stable (MVP + MVT) de la solution EPS, en adoptant une approche Agile et en tenant compte des cas d'utilisation pour le call center, l'administrator et les cardholders. Des méthodes UX ont été appliquées, incluant la création de personas, l'organisation d'ateliers de conception et des sessions de réflexion pour valider les spécifications fonctionnelles des interfaces. Ces interfaces couvraient la gestion des transactions et des commissions, un système de recherche filtrée, ainsi que la gestion des cartes de paiement, tout en assurant la conformité avec les systèmes et réglementations financières.<br/><br/>
+  **Outils, méthodes et/ou technologies** : Adobe PS, Ai, Id, Sketch, Zeplin, Capian, Invision, Figma, Redmine, personas, usecases, user stories, workshops, HTML/CSS/SASS, JS, Yaml, Markdown, CMS Grav, Git/Github, Docker.
 date: '25-11-2020'
 image: 
   path: /assets/img/prowork/cover-charte-un-espace-de-solutions-e-pay-space.jpg
