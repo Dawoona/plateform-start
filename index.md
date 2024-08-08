@@ -14,6 +14,3 @@ Prenons le temps d'échanger sur votre projet ☕ : [hello@mathieu-lebreton.com]
 Avec enthousiasme et passion 🔥
 
 ---
-
-Valeurs 💎 :
-> Loyauté - Persévérance - Flexibilité - Honnêteté
