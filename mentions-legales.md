@@ -7,23 +7,19 @@ sitemap: false
 no_groups: true
 ---
 
-##### Selection M (EI)
+##### Mathieu Lebreton (Selection M - EI)
 Numéro SIRET : 90397789000016  
-2 rue Gonnet 75011, PARIS  
-Tel : +33682819419  
+Paris, Région Ile-de-France<br/>
 Email : hello@mathieu-lebreton.com  
 
 ##### Informations éditeur
 Le site est édité par Mathieu Lebreton @Selection M (EI)
 
 ##### Informations hébergeur
-Le site est hébergé par OVH, au capital social de 10 174 560 €  
-RCS Lille Métropole 424 761 419 00045  
-Code APE 2620Z  
-N° TVA : FR 22 424 761 419  
-Siège social : 2 rue Kellermann
-59100 Roubaix - France  
-Située au 32, boulevard de Vaugirard, 75015, PARIS
+HOSTINGER operations, UAB<br/>
+Švitrigailos str. 34, Vilnius 03230 Lithuania<br/>
+Phone: +37064503378<br/>
+Email: domains@hostinger.com
 
 ##### Conditions d’utilisation du site mathieu-lebreton.com
 Le site a pour objet de fournir une information concernant l’ensemble des activités de l'entreprise individuelle Selection M (EI)
