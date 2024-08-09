@@ -6,7 +6,7 @@ sitemap: false
 
 ## Hello, bonjour, 안녕하세요, je suis designer freelance
 
-Passionné de graphisme depuis plus d’une décennie, j’ai eu l’opportunité de collaborer au sein de start-ups et PME spécialisées dans divers secteurs tels que l'IT, le e-marketing, le e-commerce, et les événements d’entreprise. J’aspire à évoluer perpétuellement dans le numérique, mettant en œuvre ma vision à 360° pour des collaborations épanouissantes et de qualité.<br/>
+Passionné de graphisme depuis plus de dix ans, j'ai eu l'opportunité de collaborer avec des start-ups et PME dans divers secteurs tels que l'IT, le e-marketing, le e-commerce, et les événements d'entreprise. Mon objectif est de satisfaire pleinement mes clients et partenaires en mettant en œuvre ma vision à 360° pour des collaborations épanouissantes et de haute qualité.<br/>
 
 Vous souhaitez améliorer votre image et optimisez vos solutions centrées sur l'expérience utilisateur ?<br/>
 
