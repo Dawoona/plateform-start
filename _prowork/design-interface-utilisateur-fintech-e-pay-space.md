@@ -3,8 +3,8 @@ layout: project
 title: 'E-Pay Space'
 caption: Solutions de paiement sur-mesure (BaaS)
 description: >
-  **Client** : Fintech française nommé E-Pay Space développé par MGNY (Mextor Corp), propriétaire et experte en solution (BaaS) de paiement sur-mesure virtualisé, et de gestion de programme manager.<br/><br/>
-  **Mission** : Développer une version stable (MVP + MVT) de la solution EPS, en adoptant une approche Agile et en tenant compte des cas d'utilisation pour le call center, l'administrator et les cardholders. Des méthodes UX ont été appliquées, incluant la création de personas, l'organisation d'ateliers de conception et des sessions de réflexion pour valider les spécifications fonctionnelles des interfaces (gestion des transactions et des commissions, système de recherche filtrée,la gestion des cartes de paiement, e-wallet) tout en assurant la conformité avec les systèmes et réglementations financières.<br/><br/>
+  **Client** : Fintech française nommée E-Pay Space développée par MGNY (Mextor Corp), propriétaire et experte en solutions (BaaS) de paiement virtualisé sur-mesure, et de gestion de programme.<br/><br/>
+  **Mission** : Développer une version stable (MVP + MVT) de la solution EPS, en adoptant une approche Agile et en tenant compte des cas d'utilisation pour l'administrateur de services, le gestionnaire de cartes, et le détenteur de cartes. Des méthodes UX ont été appliquées, incluant la création de personas, l'organisation d'ateliers de co-conception et des sessions de réflexion afin de valider les spécifications fonctionnelles des interfaces (gestion des transactions et des commissions, système de recherche filtrée, la gestion des cartes de paiement, e-wallet) tout en assurant la conformité avec les systèmes et réglementations financières.<br/><br/>
   **Outils, méthodes et/ou technologies** : Adobe PS, Ai, Id, Sketch, Zeplin, Capian, Invision, Figma, Redmine, personas, usecases, user stories, workshops, HTML/CSS/SASS, JS, Yaml, Markdown, CMS Grav, Git/Github, Docker.
 date: '25-11-2020'
 image: 
