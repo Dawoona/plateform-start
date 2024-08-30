@@ -8,6 +8,7 @@ html {
 }
 */
 
+
 .f1, h1, .h1 {
   font-size: 1.5rem;
 }
@@ -15,6 +16,7 @@ html {
 .f3, h3 .h3 {
   font-size: 1.2rem;
 }
+
 
 @media screen and (min-width: 1664px) {
 body:not(.no-large-headings) .content h1, body:not(.no-large-headings) .content .h1 {
@@ -42,7 +44,7 @@ body.light-mode {
 }
 
 .sidebar-about>a.sidebar-title::after {
-  border-bottom: 1px solid;
+  border-bottom: 0.5px solid;
 }
 
 .sidebar-social>ul>li>a {
