@@ -184,7 +184,7 @@ google_analytics:      G-PWQ9EYD5YN
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
-tinyletter:            selectionm
+# tinyletter:            selectionm
 
 
 # Hydejack Settings
