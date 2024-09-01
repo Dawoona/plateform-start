@@ -18,9 +18,30 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 
-<!--
-Code for integrating CloudFlare's email protection with Hydejack's single page app loading.
--->
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.1/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.13.1/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyCbY3bj-LEIupQD36E5MtK8mwrqvd2U64w",
+    authDomain: "siteweb2024-92b65.firebaseapp.com",
+    projectId: "siteweb2024-92b65",
+    storageBucket: "siteweb2024-92b65.appspot.com",
+    messagingSenderId: "821366323477",
+    appId: "1:821366323477:web:5b2e0702172862f1ddd11c",
+    measurementId: "G-3PEE1LKFTB"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+
 <script>
   document.getElementById('_pushState').addEventListener('hy-push-state-after', function (e) {
     function e(e){
@@ -108,30 +129,6 @@ Example code for using Matamo as alternative analytics solution.
   });
 
   window.loadJSDeferred('{{site.matomo_analytics.root}}piwik.js');
-</script>
-
-<script type="module">
-  // Import the functions you need from the SDKs you need
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.1/firebase-app.js";
-  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.13.1/firebase-analytics.js";
-  // TODO: Add SDKs for Firebase products that you want to use
-  // https://firebase.google.com/docs/web/setup#available-libraries
-
-  // Your web app's Firebase configuration
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  const firebaseConfig = {
-    apiKey: "AIzaSyCbY3bj-LEIupQD36E5MtK8mwrqvd2U64w",
-    authDomain: "siteweb2024-92b65.firebaseapp.com",
-    projectId: "siteweb2024-92b65",
-    storageBucket: "siteweb2024-92b65.appspot.com",
-    messagingSenderId: "821366323477",
-    appId: "1:821366323477:web:5b2e0702172862f1ddd11c",
-    measurementId: "G-3PEE1LKFTB"
-  };
-
-  // Initialize Firebase
-  const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app);
 </script>
 
 {% endif %}
